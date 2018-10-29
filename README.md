@@ -15,3 +15,4 @@ Delovne hipoteze:
 * Ali obstaja povezava med najbolje ocenjenimi modeli tekaških čevljev in višjo ceno?
 * Ali obstaja povezava me najbolje ocenjenimi modeli in znamko? 
 * Katere znamke čevljev so najbolj ocenjene in kateri modeli? 
+****
