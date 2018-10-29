@@ -7,11 +7,12 @@ import sys
 import requests
 
 # URL
-url_ = 'https://runrepeat.com/ranking/rankings-of-running-shoes'
+url_ = 'https://runrepeat.com/ranking/rankings-of-running-shoes?id%20=%20icon-ranking-grid-selected'
 # mapa, v katero bomo shranili podatke
 mapa_= 'shoes_data2'
 # ime datoteke v katero bomo shranili glavno stran
-ime_datoteke_ = 'frontpage.html'
+ime_datoteke_ = 'page1.html'
+
 # ime CSV datoteke v katero bomo shranili podatke
 csv_filename = 'shoes_data.csv'
 
@@ -38,38 +39,45 @@ def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
             datoteka.write(r.text)
             print('shranjeno!')
 
-
-def vsebina_datoteke(ime_datoteke):
-    '''Vrne niz z vsebino datoteke z danim imenom.'''
-    with open(ime_datoteke, encoding='utf-8') as datoteka:
-        return datoteka.read()
+       
 
 
-def zapisi_csv(slovarji, imena_polj, ime_datoteke):
-    '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
-    pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
-        writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
-        writer.writeheader()
-        for slovar in slovarji:
-            writer.writerow(slovar)
+#def vsebina_datoteke(ime_datoteke):
+  #  '''Vrne niz z vsebino datoteke z danim imenom.'''
+   #with open(ime_datoteke, encoding='utf-8') as datoteka:
+   #     return datoteka.read()
+
+# def vsebina_datoteke(ime_datoteke):
+#     '''Vrne niz z vsebino datoteke z danim imenom.'''
+#     with open(ime_datoteke, encoding='utf-8') as datoteka:
+#         return datoteka.read()
+
+
+# def zapisi_csv(slovarji, imena_polj, ime_datoteke):
+#     '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
+#     pripravi_imenik(ime_datoteke)
+#     with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
+#         writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
+#         writer.writeheader()
+#         for slovar in slovarji:
+#             writer.writerow(slovar)
 
 
 
-for i in range(1, 3):
-    url = ('https://runrepeat.com/ranking/rankings-of-running-shoes'
+# for i in range(1, 3):
+#     url = ('https://runrepeat.com/ranking/rankings-of-running-shoes'
         
-            '?page={}'
-    ).format(i)
-    shrani_spletno_stran(url, 'page-{}.html'.format(i))
-podatki_filmov = []
+#             '?page={}'
+#     ).format(i)
+#     shrani_spletno_stran(url, 'page-{}.html'.format(i))
+# podatki_filmov = []
 
 
-or i in range(1, 3):
-    vsebina = vsebina_datoteke(
-        'page-{}.html'.format(i))
-    for ujemanje_filma in vzorec.finditer(vsebina):
-        podatki_filmov.append(izloci_podatke_filma(ujemanje_filma))
-zapisi_json(podatki_filmov, 'obdelani-podatki/vsi-filmi.json')
-zapisi_csv(podatki_filmov, ['id', 'naslov', 'dolzina', 'leto',
-                            'ocena', 'opis'], 'obdelani-podatki/vsi-filmi.csv')
+# or i in range(1, 3):
+#     vsebina = vsebina_datoteke(
+#         'page-{}.html'.format(i))
+#     for ujemanje_filma in vzorec.finditer(vsebina):
+#         podatki_filmov.append(izloci_podatke_filma(ujemanje_filma))
+# zapisi_json(podatki_filmov, 'obdelani-podatki/vsi-filmi.json')
+# zapisi_csv(podatki_filmov, ['id', 'naslov', 'dolzina', 'leto',
+#                             'ocena', 'opis'], 'obdelani-podatki/vsi-filmi.csv')

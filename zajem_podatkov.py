@@ -10,6 +10,8 @@ import csv
 ###############################################################################
 
 # URL
+#url tabela : 
+shoes_table_url = 'https://runrepeat.com/ranking/rankings-of-running-shoes'
 shoes_frontpage_url = 'https://runrepeat.com/ranking/rankings-of-running-shoes'
 # mapa, v katero bomo shranili podatke
 shoe_directory= 'shoes_data'
@@ -18,6 +20,13 @@ frontpage_filename = 'frontpage.html'
 # ime CSV datoteke v katero bomo shranili podatke
 csv_filename = 'shoes_data.csv'
 url = shoes_frontpage_url
+
+link = 'https://runrepeat.com/ranking/rankings-of-running-shoes?id%20=%20icon-ranking-grid-selected'
+
+# mapa, v katero bomo shranili podatke
+mapa_= 'shoes_data_grid'
+# ime datoteke v katero bomo shranili glavno stran
+ime_datoteke_ = 'page1_grid.html'
 
 
 def download_url_to_string(url):
