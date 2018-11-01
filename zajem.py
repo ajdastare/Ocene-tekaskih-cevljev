@@ -1,5 +1,6 @@
 import re
 import csv
+import requests
 
 link = 'https://runrepeat.com/ranking/rankings-of-running-shoes'
 # mapa, v katero bomo shranili podatke
@@ -42,6 +43,14 @@ with open('shoes') as mapa:
     with open('shoes_1.html') as datoteka2:
         vsebina = datoteka2.read()
 
+def vsebina_datoteke(ime_datoteke):
+    with open(ime_datoteke, encoding = 'utf-8') as datoteka: 
+        return datoteka.read()
+def pripravi_imenik(ime_datoteke):
+    '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
+    imenik = os.path.dirname(ime_datoteke)
+    if imenik:
+        os.makedirs(imenik, exist_ok=True)
 
 vzorec = r'<span class="text-ellipsis" itemprop="name">(?P<ime>.*?)</span>'
 vzorec2 = r'<div class="hidden-xs hidden-sm count-reviews">(?P<stevilo>.*?)</div>'
@@ -85,7 +94,6 @@ for ujemanje in re.finditer(celotni_vzorec,vsebina):
 print(i)
 
 #za prvo stran, naredi 'data_page1.csv in v datoteko napiše ime, oceno in review
-
 with open('data_page1.csv', 'w') as datoteka:
     writer = csv.DictWriter(datoteka,['ime', 'ocena','review'])
     writer.writeheader()
@@ -93,3 +101,34 @@ with open('data_page1.csv', 'w') as datoteka:
         writer.writerow(ujemanje.groupdict())
 
 
+def zapisi_csv(slovarji, imena_polj, ime_datoteke):
+    '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
+    pripravi_imenik(ime_datoteke)
+    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
+        writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
+        writer.writeheader()
+        for slovar in slovarji:
+            writer.writerow(slovar)
+
+
+
+
+https://runrepeat.com/ranking/rankings-of-running-shoes?page=2
+
+#Zajela bom 10 strani tako da bo skupaj 300 modelov cevljev
+
+for i in range(1, 11):
+    url = ('https://runrepeat.com/ranking/rankings-of-running-shoes?page={}').format(i)
+    test = download_url_to_string(url)
+    save_string_to_file(test,'zajeti_podatki','shoes-{}.html'.format(i))
+
+
+podatki_cevljev = []
+
+for i in range(1, 11):
+    vsebina = vsebina_datoteke(
+        'zajeti_podatki/shoes-{}.html'.format(i))
+    for ujemanje in celotni_vzorec.finditer(vsebina):
+        podatki_cevljev.append(ujemanje.groupdict())
+
+zapisi_csv(podatki_cevljev,['ime', 'ocena','review'], 'obdelani-podatki/vsi-cevlji.csv')
