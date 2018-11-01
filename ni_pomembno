@@ -29,3 +29,32 @@
 #         datoteka.write(r.text)
 #         print('shranjeno!')
 
+for ujemanje in re.finditer(vzorec,vsebina):
+    print(ujemanje.group(1))
+    i +=1
+print(i)
+
+with open('podatki3.csv','w') as csv:
+    print('model', file = csv)
+    for ujemanje in re.finditer(vzorec,vsebina, re.DOTALL):
+        print(''ujemanje.group(1), file = csv)
+
+
+#r'<div class="overall_score score_green".*?itemprop="ratingValue" rrExplainerNg rrPopoverdata-popover-content="#corescore-explainer-content" data-trigger="manuel hover".*?data-placement="top" data-custom-class="rr_popover" data-original-title="".*?title="">(?P<ocena>)</div>.*?<div class="hidden-xs hidden-sm count-reviews">(?P<stevilo>)</div>'
+    )
+
+
+vzorec = (r'<span class="text-ellipsis" itemprop="name">(?P<ime>)</span>.*?'
+    r'</div>.*?'
+    r'<div class="col-sm-1 col-xs-1 rl-col-3 col-price prices-container">.*?'
+    r'</div>.*?'
+    r'</a>.*?'
+    r'<a.*?target="_self".*?href=(?P<link>).*?class="col-sm-1 hidden-xs hidden-sm rl-col-4 col-brand-logo".*?'
+    r'style="background: url(//cdn.runrepeat.com/img/brand-color/adidas.png) no-repeat center center; background-size: contain".*?'
+    r'>.*?</a>.*?<a href="https://runrepeat.com/adidas-solar-boost".*?'
+    r'target="_self".*?class="col-sm-3 col-xs-2 rl-col-5 col-corescore".*?itemprop="aggregateRating".*?'
+    r'itemscope="".*?itemtype="http://schema.org/AggregateRating" style="text-decoration: none">.*?<span>.*?</span>.*?'
+    r'<meta itemprop="worstRating" content="1">.*?<meta itemprop="bestRating" content="100">.*?<meta itemprop="reviewCount"content="(?P<st.ocen>)">.*?'
+    r'<div class="overall_score score_green".*?itemprop="ratingValue" rrExplainerNg rrPopover.*?data-popover-content="#corescore-explainer-content" data-trigger="manuel hover".*?'
+    r'data-placement="top" data-custom-class="rr_popover" data-original-title="".*?title="">(?P<povprecna_ocena>)</div>.*?'
+)
