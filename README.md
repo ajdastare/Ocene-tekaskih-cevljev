@@ -21,4 +21,4 @@ Zajem podatkov
 
 Zajela sem 10 strani na zgoraj omenjeni strani, koda je v zajem.py . 
 Zajeti podatki so v csv obliki vsi-cevlji.csv. 
-Podatke sem razdelila po imenu modela tekaškega čevlja, oceni in štvilu vseh ocen. 
+Podatke sem razdelila po imenu modela tekaškega čevlja, oceni in številu vseh ocen. 
