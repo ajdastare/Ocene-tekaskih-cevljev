@@ -17,8 +17,8 @@ Delovne hipoteze:
 * Katere znamke čevljev so najbolj ocenjene in kateri modeli? 
 ****
 
-Zajem podatkov
+1. Faza : Zajem podatkov
 
-Zajela sem 10 strani na zgoraj omenjeni strani, koda je v zajem.py . 
+Zajela sem 10 strani na zgoraj omenjeni strani, koda je v zajem.py. 
 Zajeti podatki so v csv obliki vsi-cevlji.csv. 
-Podatke sem razdelila po imenu modela tekaškega čevlja, oceni in številu vseh ocen. Cene in imena proizvajalca nisem zajela, saj teh dveh podatkov v html zapisu pod vsakim modelom na strani ni. 
+Podatke sem razdelila v stolpce po imenu modela tekaškega čevlja, oceni in številu vseh ocen. Cene in imena proizvajalca nisem zajela, saj teh dveh podatkov v html zapisu pod vsakim modelom na strani ni. 
