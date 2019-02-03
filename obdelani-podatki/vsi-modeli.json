@@ -1,0 +1,7674 @@
+[
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Winflo 4",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.7",
+        "stevilo ocen": "97"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Escalante 1.5",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.7",
+        "stevilo ocen": "251"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell All Out Crush Tough Mudder 2 BOA",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.8",
+        "stevilo ocen": "66"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun Ride 7",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.6",
+        "stevilo ocen": "147"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Solar Glide",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "157"
+    },
+    {
+        "znamka": "Xero Shoes",
+        "model": "Xero Shoes Prio",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "886"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Zigwild TR 5.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.8",
+        "stevilo ocen": "70"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 25",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.6",
+        "stevilo ocen": "1030"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sonic RA Max",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.6",
+        "stevilo ocen": "72"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultraboost Clima",
+        "teren": "Road",
+        "cena": 270,
+        "ocena": "4.7",
+        "stevilo ocen": "731"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Rider 22",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.7",
+        "stevilo ocen": "212"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost Uncaged",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.8",
+        "stevilo ocen": "821"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Adrenaline GTS 19",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.6",
+        "stevilo ocen": "209"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Clifton 1",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.6",
+        "stevilo ocen": "202"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Ghost 11",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "2162"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Endurus TR",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.8",
+        "stevilo ocen": "60"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Torrent",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "47"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Odyssey",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "209"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Dash RN 2",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.5",
+        "stevilo ocen": "465"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Revolution 4",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.6",
+        "stevilo ocen": "2225"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Escalante",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.6",
+        "stevilo ocen": "484"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Skychaser GTX",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.6",
+        "stevilo ocen": "385"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun 600",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.7",
+        "stevilo ocen": "163"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Escape 2",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.7",
+        "stevilo ocen": "128"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Carson 2 X Knit",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.7",
+        "stevilo ocen": "58"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Revel",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "2111"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Fortitude 7",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "239"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adistar Boost ESM",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "318"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Ghost 10",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "3099"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarEpic Flyknit Shield",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "61"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudflow",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.7",
+        "stevilo ocen": "202"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Ricochet LE",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "55"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 32",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "806"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Ultra 109 GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "843"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 1000 4",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.6",
+        "stevilo ocen": "1935"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 35",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "1180"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN 2018",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "1037"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Fly SP",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.3",
+        "stevilo ocen": "807"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1400 v6",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "95"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Beacon",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "105"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic MT-2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "53"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Dynamis",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.5",
+        "stevilo ocen": "48"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Ride 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "954"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 4.0",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "218"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Fastwitch 8",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.6",
+        "stevilo ocen": "65"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite Limitless Weave",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.7",
+        "stevilo ocen": "58"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sonic RA Pro",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.7",
+        "stevilo ocen": "51"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Supernova Sequence Boost 9",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "360"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Pure Boost Go",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "444"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Venture 6",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.5",
+        "stevilo ocen": "2495"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Falcon Elite 5",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "87"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Carson 2 Knit",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.7",
+        "stevilo ocen": "146"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Print Run 3.0",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.7",
+        "stevilo ocen": "65"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour HOVR Sonic",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "296"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Rider 21",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "692"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Breakthru 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "86"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Boston Boost 6",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "323"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Sub 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "61"
+    },
+    {
+        "znamka": "Vivobarefoot ",
+        "model": "Vivobarefoot Primus Lux",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.3",
+        "stevilo ocen": "62"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Excursion TR 12",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "239"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Flyknit 2018",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "510"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flex Fury 2",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.6",
+        "stevilo ocen": "430"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultraboost Uncaged Parley",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.6",
+        "stevilo ocen": "113"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell All Out Crush Tough Mudder 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.7",
+        "stevilo ocen": "135"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost All Terrain",
+        "teren": "Road",
+        "cena": 270,
+        "ocena": "4.6",
+        "stevilo ocen": "722"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Tracer 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "48"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Glycerin 15",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "2166"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 34 Shield",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "1398"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost ST Parley",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.4",
+        "stevilo ocen": "223"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Questar Trail",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.7",
+        "stevilo ocen": "84"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Evate 3",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.7",
+        "stevilo ocen": "159"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Paradigm 4.0",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "114"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Akyra",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.6",
+        "stevilo ocen": "81"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Adrenaline GTS 18",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "3656"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Zig Pulse",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "260"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Downshifter 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "1528"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Structure 21",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "139"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Aerobounce PR",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.6",
+        "stevilo ocen": "91"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sonic RA",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "117"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Trail Glove 4",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "1103"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Vongo v3",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.6",
+        "stevilo ocen": "64"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Questar Boost",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "341"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Cascadia 12",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "522"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Trail Glove 4 E-Mesh",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "204"
+    },
+    {
+        "znamka": "Xero Shoes",
+        "model": "Xero Shoes TerraFlex",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "104"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun Forza",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "182"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Glycerin 16",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "744"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Launch 4",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "1807"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Roadhawk FF",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "321"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Duramo 7",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.6",
+        "stevilo ocen": "1137"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Caldera",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "251"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 990 v4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "6460"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Duramo 8",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.5",
+        "stevilo ocen": "261"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Sky",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "202"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flyknit Lunar 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "261"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam 1080 v9",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.3",
+        "stevilo ocen": "246"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarStelos",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "287"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Rider 20",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "733"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Kinvara 9",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "186"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Climachill Rocket",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "188"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Tracerocker",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.4",
+        "stevilo ocen": "336"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Surveyor 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "133"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Solar Boost",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "625"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Energy Boost 3",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.6",
+        "stevilo ocen": "627"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Threadborne Slingflex",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "227"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Jamming",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.7",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Inspire 14",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "338"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Launch 5",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "1301"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Fly",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "288"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudsurfer",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "246"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Agravic Speed",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "310"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon X-Mission 3",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "1621"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Vapor Glove 3",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.3",
+        "stevilo ocen": "3035"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Pure Boost All Terrain",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "951"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Elite 8",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "119"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1540 v2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "404"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Pure Boost DPR LTD",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "108"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kinsei 6",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.5",
+        "stevilo ocen": "540"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun Mojo",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.6",
+        "stevilo ocen": "116"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Rush v2",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "95"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Levitate 2",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "459"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Revolution 3",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.5",
+        "stevilo ocen": "3501"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Pro Max",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "66"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Mudclaw 300",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "156"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Foundation 13",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "165"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Prime Parley",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "220"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Supernova",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "563"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks PureCadence 6",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "291"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Speedcross 4 GTX",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.5",
+        "stevilo ocen": "2140"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics DynaFlyte 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "162"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Vongo",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "218"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic Runventure 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.9",
+        "stevilo ocen": "20"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudventure Peak",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "61"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Winflo 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "140"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Span",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Ride",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "290"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Zealot ISO",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "403"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free Train Instinct",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "85"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Caldera 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "76"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike FS Lite Run 4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "172"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Elite 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "46"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1500 v4",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "177"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost Parley",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.6",
+        "stevilo ocen": "1252"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Olympus 3.0",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "86"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce Instinct",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "71"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Vomero 11",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "298"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 290",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "83"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Horizon 2",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.5",
+        "stevilo ocen": "92"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Vomero 12",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.4",
+        "stevilo ocen": "317"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Liberty ISO",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.7",
+        "stevilo ocen": "33"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Pure Boost",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "506"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 33",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "1345"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Speed Swift 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "144"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Pro 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "116"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Mutant",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "86"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Bandit 3",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "492"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks PureGrit 6",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "70"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun 6",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "88"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Bondi 6",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.3",
+        "stevilo ocen": "354"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Zigwild TR 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "354"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Ride 10",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "676"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Galaxy Trail",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.6",
+        "stevilo ocen": "507"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost ST",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.5",
+        "stevilo ocen": "599"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Speedcross 4",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "6625"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Zealot ISO 3",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "97"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Fly Flyknit",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "91"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Ravenna 9",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "507"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 24",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "2241"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite EvoKNIT",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "180"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Solar Glide ST",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.6",
+        "stevilo ocen": "565"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Adrenaline GTS 17",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "3040"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic Terraventure",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "66"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Response 3",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.6",
+        "stevilo ocen": "177"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Trail Talon 235",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "28"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudflash",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "208"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Arahi 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "449"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Fast Flexweave",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "324"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 34",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "652"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarEpic Flyknit",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.5",
+        "stevilo ocen": "237"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics DynaFlyte",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.4",
+        "stevilo ocen": "518"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Ricochet",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "1247"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Venture 5",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "11207"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Omni 13",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "367"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Pureflow 7",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "471"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Inspire 13",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "523"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Questar Ride",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.6",
+        "stevilo ocen": "415"
+    },
+    {
+        "znamka": "Vibram FiveFingers",
+        "model": "Vibram FiveFingers V-Trail",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "483"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Hybrid Rocket Runner",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.8",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Nimbus 18",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "3536"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Elite 9",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "132"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite Disc",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "76"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sonic Pro",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.6",
+        "stevilo ocen": "3826"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Hupana",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "160"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Ultra Raptor",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "230"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 3.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "925"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Gaviota",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "279"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun Forza 2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "69"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Powerblaze",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "928"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce Engineered Mesh",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "295"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom All Out Low",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "259"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike FS Lite Run 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "971"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks PureCadence 7",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "180"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Apollo 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "222"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 6 Lite-Show",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.6",
+        "stevilo ocen": "43"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Beast 18",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.3",
+        "stevilo ocen": "1015"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Clifton 5 Knit",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "219"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "84"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Fat Tire 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "63"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN 2018 Sun",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "115"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Element Athletic",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "282"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Del Mar",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "77"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Torin 3.0",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "324"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air VaporMax Flyknit Moc 2",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.5",
+        "stevilo ocen": "56"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Solar Drive ST",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "179"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Bandit",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "139"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Pure Boost DPR",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "1095"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Levitate",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "554"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam 1080 v8",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "576"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Agility Peak Flex",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "71"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sonic Aero",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "211"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Swift R GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "762"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flex Fury",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "432"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Levitate 2 LE",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "180"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Carson Runner",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "517"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeX Lyte 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "298"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 305",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "77"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Gemini 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "570"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 34 FlyEase",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "322"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce Beyond",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "1258"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Winflo 5",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "353"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Assert 6",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.4",
+        "stevilo ocen": "1607"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce RC",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "514"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon XA Enduro",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "93"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 360 4",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.5",
+        "stevilo ocen": "441"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Speedgoat 2",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "324"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flyknit Racer",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "2061"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Distance 2",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "841"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun 5",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "197"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloud X",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.2",
+        "stevilo ocen": "569"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Surveyor 5",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "153"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Omni 14",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "445"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Fury",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "102"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 1000 7 SP",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "107"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Bare Access Ultra",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "170"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost Laceless",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.5",
+        "stevilo ocen": "1557"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Ultra Tempo 6.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "57"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Speedlux 2.0",
+        "teren": "Road",
+        "cena": 70,
+        "ocena": "4.5",
+        "stevilo ocen": "86"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Skychaser",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.5",
+        "stevilo ocen": "334"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce RC 2.0",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "51"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gecko XT",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "54"
+    },
+    {
+        "znamka": "Jordan",
+        "model": "Jordan 88 Racer",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "163"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Inspire 12",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "1015"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Carson 2 Nature Knit ",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.5",
+        "stevilo ocen": "118"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Excite 4",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.3",
+        "stevilo ocen": "2889"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon S-Lab Sense 6 SG",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.5",
+        "stevilo ocen": "119"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Gobi Trail",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "149"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Comutora MX",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.7",
+        "stevilo ocen": "27"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Slingride TRI",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "169"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics DynaFlyte 3",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "34"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Tor Ultra Hi WP",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "263"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Intake 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "235"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Slingshot 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "247"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Gobi Trail v2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "73"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Ride 8",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "720"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Pursuit",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.5",
+        "stevilo ocen": "672"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok OSR Grasse Road",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "5",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Cavu",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "147"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flex RN 2017",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.3",
+        "stevilo ocen": "3485"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Cohesion 10",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "2018"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 360 Knit",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.4",
+        "stevilo ocen": "1058"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Kinvara 8",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "207"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic Magnifly 2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "30"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Slingshot",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.4",
+        "stevilo ocen": "115"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Ultra Cardiac",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "49"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarGlide 8 Shield",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "244"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Bondi 5",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "1377"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic Hydroventure",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "51"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Pureflow 6",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "495"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Akasha",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.4",
+        "stevilo ocen": "99"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOmeb Razor 2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.6",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudrunner",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "70"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Triumph ISO 2",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "1502"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Element Refine Tricot",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "106"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Guide 8",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "1304"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Agravic",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "181"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel FujiTrabuco 6",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.5",
+        "stevilo ocen": "327"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Guide ISO",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "263"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Ghost 11 GTX",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "515"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Laguna",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "27"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Exalt 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "630"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell All Out Charge",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "538"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Downshifter 6",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "939"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Roadhawk FF 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "140"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Duramo 9",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.5",
+        "stevilo ocen": "445"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra King MT",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "59"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Zig Pulse SE",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "116"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Vanisher",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "286"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Zante v4",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "279"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Guide 9",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "1351"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon XA Pro 3D CS WP",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "484"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Cortana 4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "55"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Motion Flyknit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "1281"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.4",
+        "stevilo ocen": "4644"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Sky 2",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "44"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Hupana 2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.2",
+        "stevilo ocen": "135"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Trailmaker GTX",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "127"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Relentless 6",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "252"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 180 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "50"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Kinvara 6",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "685"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Supernova ST",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.7",
+        "stevilo ocen": "456"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Motion Flyknit 2017",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "4702"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Gravity 7",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.4",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarConverge",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.5",
+        "stevilo ocen": "211"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Torin 3.5 Knit",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "54"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Cosmic 2.0 SL",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "715"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Freedom Assert 6",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "67"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Horizon",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "121"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Foundation 12",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "506"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Noosa FF",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.2",
+        "stevilo ocen": "297"
+    },
+    {
+        "znamka": "Vibram FiveFingers",
+        "model": "Vibram FiveFingers V-Run",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "377"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Horizon RTT",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "106"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Cypher Run",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.4",
+        "stevilo ocen": "85"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Response Boost Trail",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "52"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Speedlux 3.0",
+        "teren": "Road",
+        "cena": 70,
+        "ocena": "4.5",
+        "stevilo ocen": "112"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Cruz",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.4",
+        "stevilo ocen": "1277"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN 2017",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "4801"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Speedcross 4 CS",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "1541"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Lunar Skyelux",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "1179"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Speed Swift 2",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.5",
+        "stevilo ocen": "259"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 3.5",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "315"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Tempo 9",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "218"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon XA Pro 3D GTX",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.3",
+        "stevilo ocen": "3941"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Terraclaw 250",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "259"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Excursion TR 9",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "668"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Minimus 10 v1",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "197"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Carson 2 X ",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "63"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Clifton 5",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "727"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Comutora",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.5",
+        "stevilo ocen": "122"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Triumph ISO 5",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.7",
+        "stevilo ocen": "14"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Asteria",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "60"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers Synergy",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "3283"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Ultra Kiawe 2.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "21"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Commuter 2017",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "572"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Breakthru 3",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "362"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Solar Drive",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "192"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite Mesh",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "266"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloud",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "1084"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon S-Lab XA Amphib",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.4",
+        "stevilo ocen": "44"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Flux 3",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "634"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudace",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.1",
+        "stevilo ocen": "107"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic Ultrafly",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "57"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Omni 15",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "489"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra One 2.5",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "621"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Anthem",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "304"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Hierro v3",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.2",
+        "stevilo ocen": "101"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Solstice",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.3",
+        "stevilo ocen": "226"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 3.5 Mid Mesh",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "146"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Contend 4",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.5",
+        "stevilo ocen": "3227"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 35 Shield",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "587"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Rider 19",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "1893"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarGlide 8",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "420"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Mazama",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.2",
+        "stevilo ocen": "149"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Mana Bounce 2",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.5",
+        "stevilo ocen": "278"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Rush",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "305"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Adios Boost 3.0",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "386"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Prime LTD",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4.3",
+        "stevilo ocen": "122"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite Ultimate",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "119"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite PWRWARM",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "43"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Zante v3",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "396"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 3.0 NeoShell Low",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "90"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon XA Pro 3D M+",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "1870"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Kaymin",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.4",
+        "stevilo ocen": "339"
+    },
+    {
+        "znamka": "Scott",
+        "model": "Scott Kinabalu Supertrac",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.3",
+        "stevilo ocen": "155"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Bandit 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "898"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Renew Rival",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.4",
+        "stevilo ocen": "56"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite v2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "126"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Pursue 3",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.7",
+        "stevilo ocen": "28"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOmeb Speed 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "64"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics DynaFlyte 3 Sound",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.9",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Structure 20",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "94"
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Chaser 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.8",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Catalyst 2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "179"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Arahi",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "309"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudventure",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "64"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense ProPulse",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "59"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon XA Elevate",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "93"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Wings Flyte 2",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "161"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Bushido",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "313"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Challenger 5 ATR",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "33"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Runner 2.0 MT",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "137"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudster",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "96"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarGlide 9",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "190"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudrush",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "541"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 1000 5",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "2178"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Dynasty 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "289"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Distance",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "3135"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Hierro",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "100"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Pace",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "175"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Kinvara 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "722"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Timp",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "180"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 990 v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "2056"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1500 v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "203"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Launch 6",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "26"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Zante v2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "292"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Scram 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "700"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 860 v9",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudventure Waterproof",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "68"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kenun MX SP",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "84"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Response Trail",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.4",
+        "stevilo ocen": "131"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free 5.0",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "4057"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Freedom ISO",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "302"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Kineta Relay",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "1453"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Drift",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.4",
+        "stevilo ocen": "81"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Thrill 2",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.4",
+        "stevilo ocen": "179"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Contend 3",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.4",
+        "stevilo ocen": "3129"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Cumulus 20",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "1073"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Tri Fusion",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "125"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel DS Trainer 22",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "171"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Wildcat 2.0 GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "44"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "1101"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Excite 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "881"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Evo Mafate",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.6",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Parkclaw 275",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "47"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra King MT 1.5",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "67"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Pace v2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "266"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Peregrine 7",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "233"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Structure 19",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "527"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Vongo v2",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "73"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 22",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.3",
+        "stevilo ocen": "5017"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Wings Pro 2",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "220"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Race Ultra 290",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "109"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Vapor Glove 2",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.3",
+        "stevilo ocen": "2605"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Assert 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "781"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCore Sonic",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "30"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Distance 7",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 X-Talon 225",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "71"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Floatride Run",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "237"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 X-Talon 212",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "482"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Enigma 5",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.3",
+        "stevilo ocen": "446"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Neuro 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Omni ISO",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "183"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Kanadia 7 GTX",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "605"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon XA Elevate GTX",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "54"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Lunar Apparent",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "81"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Flux 4",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.5",
+        "stevilo ocen": "226"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Structure 21 Shield",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Clifton 4",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "1208"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kenun",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "279"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Duramo 6",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "1122"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Bondi Leather",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "126"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Questar TND",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.4",
+        "stevilo ocen": "396"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 24 Lite-Show",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.4",
+        "stevilo ocen": "943"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flex RN 2016",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.3",
+        "stevilo ocen": "2979"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell All Out Crush Tough Mudder",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "80"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Flyknit",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "7923"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Rebel",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.4",
+        "stevilo ocen": "174"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Metarun",
+        "teren": "Road",
+        "cena": 300,
+        "ocena": "4.2",
+        "stevilo ocen": "125"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 3.0 NeoShell Mid",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "191"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Revel 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "469"
+    },
+    {
+        "znamka": "Vibram FiveFingers",
+        "model": "Vibram FiveFingers EL-X",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.2",
+        "stevilo ocen": "906"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 360",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.3",
+        "stevilo ocen": "1793"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok All Terrain Craze",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.4",
+        "stevilo ocen": "210"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Endurant",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "213"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Harmony Road 2",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "42"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 840 v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "565"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Hurricane ISO 4",
+        "teren": "Road",
+        "cena": 200,
+        "ocena": "4.1",
+        "stevilo ocen": "66"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Provision 3.0",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "824"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Shadow",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "41"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex CMTK GTX",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "137"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Galaxy 3",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.4",
+        "stevilo ocen": "604"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Energy Cloud",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.3",
+        "stevilo ocen": "1342"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCell Impulse",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "40"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 X-Claw 275",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "42"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Gemini 3 Graphic",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "251"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Supernova GTX",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "110"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Kazan",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "403"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sonic Pro 2",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.4",
+        "stevilo ocen": "28"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 25 Lite-Show",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.6",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 180",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "288"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Ultra Pro",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.6",
+        "stevilo ocen": "42"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Paradox 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "207"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Summit Unknown",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4",
+        "stevilo ocen": "85"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeX",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "749"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Speed Instinct 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "35"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Vaporfly 4% Flyknit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "18"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Superior 3.5",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "135"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Epic React Flyknit",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.1",
+        "stevilo ocen": "306"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Kismet II",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.1",
+        "stevilo ocen": "47"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Element Race",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "203"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 5",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "1417"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Transcend 5",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.3",
+        "stevilo ocen": "175"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Strike",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.4",
+        "stevilo ocen": "165"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Clayton 2",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.1",
+        "stevilo ocen": "118"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarEpic Low Flyknit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "333"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon XA Pro 3D",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "5053"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN 2018 Shield",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "204"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Synchro MX",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "310"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 X-Talon 230",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "178"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce AMS",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "582"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Hurricane ISO 3",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "130"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Ultra 110 GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "197"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon S-Lab Speed 2",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.6",
+        "stevilo ocen": "38"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Purebounce+",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "56"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Triumph ISO 3",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "576"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Vomero 13",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "339"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Arishi Sport",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "557"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Supernova Trail",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.9",
+        "stevilo ocen": "21"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Nomad TR",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "188"
+    },
+    {
+        "znamka": "Vivobarefoot ",
+        "model": "Vivobarefoot Stealth II",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.1",
+        "stevilo ocen": "148"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarSolo",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.4",
+        "stevilo ocen": "146"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Torrance",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.4",
+        "stevilo ocen": "604"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Cohesion 11",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "1035"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Excursion TR 10",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "616"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite Limitless SR",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "172"
+    },
+    {
+        "znamka": "Vibram FiveFingers",
+        "model": "Vibram FiveFingers KSO EVO",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.2",
+        "stevilo ocen": "2616"
+    },
+    {
+        "znamka": "Vibram FiveFingers",
+        "model": "Vibram FiveFingers Trek Ascent Insulated",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "116"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel FujiEndurance",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.2",
+        "stevilo ocen": "51"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudflyer",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "181"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics 33-FA",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "484"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Ravenna 8",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.2",
+        "stevilo ocen": "374"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Freedom ISO 2",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "72"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Tracerocker GTX",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.4",
+        "stevilo ocen": "313"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Olympus 2.0",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "294"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarEpic Low Flyknit 2",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.2",
+        "stevilo ocen": "268"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce EM CTD",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "588"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Floatride Run Fast Pro",
+        "teren": "Road",
+        "cena": 300,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Omni 16",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "248"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max 2016",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "350"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic Fli-Lyte 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Arishi",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.4",
+        "stevilo ocen": "1536"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Ultra Kalani 3.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "93"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Slingride Fade",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "84"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 25 SP",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "475"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon S-Lab XA Alpine 2",
+        "teren": "Road",
+        "cena": 300,
+        "ocena": "4.5",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1500 T2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "34"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 890 v6",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "122"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Hyperion",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "255"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Guide 10",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "544"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Ultra Raptor GTX",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.3",
+        "stevilo ocen": "104"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Prime",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "95"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Hurricane ISO 2",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "575"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 180 2 MX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "161"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Paradigm 3.0",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "212"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Flyknit 2017",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "9816"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "3043"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Ultra Cardiac II",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.5",
+        "stevilo ocen": "27"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Wildhorse 4",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.2",
+        "stevilo ocen": "56"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel DS Trainer 23",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4",
+        "stevilo ocen": "124"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Trail Glove 4 Shield",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "855"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Provision 3.5",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "973"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Excursion TR 11 GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Peregrine 8",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "172"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Alpine XT",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4",
+        "stevilo ocen": "445"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Energy Bounce 2.0",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.3",
+        "stevilo ocen": "305"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 840 v4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "308"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Fujirado",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "60"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 180 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "606"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon X-Mission 3 CS",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "351"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Kanmei",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.3",
+        "stevilo ocen": "69"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Redeemer ISO",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "360"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Solana ACR",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "36"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kahana 8",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "1050"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Beast 16",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.3",
+        "stevilo ocen": "920"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Ride ISO",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "103"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Nimbus 20",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "2381"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Kaymin TRL",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "76"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Marin",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "30"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Patriot 8",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "1095"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Speed Swift",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.3",
+        "stevilo ocen": "226"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Odyssey React",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "235"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Energy Cloud 2",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.3",
+        "stevilo ocen": "865"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics HyperGel Kenzen",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "14"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Unika",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Dart 12",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "1383"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Adizero Adios 4",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon X-Scream 3D",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "400"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Agravic GTX",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.3",
+        "stevilo ocen": "437"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Caliber TR",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "118"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max 2015",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "400"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Speed 500 Ignite",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "21"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Moya",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "50"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 1000 6",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.2",
+        "stevilo ocen": "1678"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Revolution 4 FlyEase",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "66"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Patriot 10",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.3",
+        "stevilo ocen": "214"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Rockadia Trail",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.3",
+        "stevilo ocen": "1797"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Europa",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "186"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max 2017",
+        "teren": "Road",
+        "cena": 230,
+        "ocena": "4.5",
+        "stevilo ocen": "1228"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Tailwind 8",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "1015"
+    },
+    {
+        "znamka": "Vibram FiveFingers",
+        "model": "Vibram FiveFingers Trek Ascent",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "318"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Dart 11",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "526"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Crossover 2.0 GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Triumph ISO 4",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4",
+        "stevilo ocen": "393"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Scram 4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "135"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom All Out Flyknit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "89"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Mach",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4",
+        "stevilo ocen": "78"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Mudclaw G 260",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Noosa FF 2",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.3",
+        "stevilo ocen": "180"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Print Run 2.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "108"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Sonoma 3",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.2",
+        "stevilo ocen": "659"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Ride 8 GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "54"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarTempo 2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.2",
+        "stevilo ocen": "210"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Terra Kiger 4",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "18"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flex Experience RN 6",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.3",
+        "stevilo ocen": "1811"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Sequent",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "1154"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Cohesion TR 11",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "40"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Prism",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "138"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Floatride Run Fast",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.6",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Threadborne Blur",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "68"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 6 Trail",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "3.9",
+        "stevilo ocen": "229"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Velociti",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "82"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum Infinity",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.4",
+        "stevilo ocen": "5"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Tempesta GTX",
+        "teren": "Road",
+        "cena": 200,
+        "ocena": "4.4",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 90",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "31"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Creation 19",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.3",
+        "stevilo ocen": "162"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics NitroFuze",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "33"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air VaporMax Flyknit 2",
+        "teren": "Road",
+        "cena": 230,
+        "ocena": "4.3",
+        "stevilo ocen": "477"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Fusium Run",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "35"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Aerobounce 2 ",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "87"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Trail Glove 4 Knit",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "345"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 5 Lite-Show",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "115"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Tailwind 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "168"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Stinson ATR 4",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4",
+        "stevilo ocen": "168"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam 1080 v7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "203"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Fortitude 8",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "36"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Motion 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeX Lyte",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "629"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN CMTR",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "343"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra One v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "402"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Breakthru 4",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "41"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCell",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "162"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 23",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.1",
+        "stevilo ocen": "3460"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Legend React",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4",
+        "stevilo ocen": "93"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Tartherzeal 6",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.5",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Bare Access Flex",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "3.9",
+        "stevilo ocen": "738"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Solana 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "30"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Ride 9",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "843"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Blur",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "185"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Pro 3",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "19"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Sequent 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "1393"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Fuel",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "112"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 940 v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "173"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Bare Access Flex Knit",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "313"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel 451",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.6",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Speed Instinct",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "80"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Toccoa",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "611"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCore Coast v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "214"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCore Rush v3",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.3",
+        "stevilo ocen": "154"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Fuse FST",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.3",
+        "stevilo ocen": "141"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Lazr Hyposkin",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.1",
+        "stevilo ocen": "42"
+    },
+    {
+        "znamka": "Vivobarefoot ",
+        "model": "Vivobarefoot Ultra 3",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4",
+        "stevilo ocen": "61"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeTora",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "21"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 325 GTX",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.3",
+        "stevilo ocen": "27"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Caldera 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Challenger 3 ATR",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4",
+        "stevilo ocen": "212"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Advantage",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.3",
+        "stevilo ocen": "96"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Vigor Bounce",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "991"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Streak 6",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4",
+        "stevilo ocen": "43"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roadclaw 275",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "100"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic ST-2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "96"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Gemini 3",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4",
+        "stevilo ocen": "195"
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Strata 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun MaxTrail 5 Ultra",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok ZPrint 3D",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.3",
+        "stevilo ocen": "135"
+    },
+    {
+        "znamka": "Vivobarefoot ",
+        "model": "Vivobarefoot Ultra 3 Bloom",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "3.9",
+        "stevilo ocen": "56"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Carlsbad",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.7",
+        "stevilo ocen": "14"
+    },
+    {
+        "znamka": "Jordan",
+        "model": "Jordan Grind",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "28"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Duo",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.8",
+        "stevilo ocen": "151"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour HOVR Phantom Connected",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "177"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Runner",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "156"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Summit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "15"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Bedlam",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "141"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flex Experience RN 7",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.2",
+        "stevilo ocen": "1272"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Bare Access Flex E-Mesh",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.2",
+        "stevilo ocen": "52"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Olympus 2.5",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "3.9",
+        "stevilo ocen": "120"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Torin IQ",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.8",
+        "stevilo ocen": "57"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 680 v4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "128"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Odyssey React Shield",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "177"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Pulse",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "62"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kenun Lyte",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "209"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Excursion TR 11",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "272"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face One Trail",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "20"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Elevon",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "982"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Superior 3.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "276"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Pureboost RBL",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.7",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air VaporMax Flyknit",
+        "teren": "Road",
+        "cena": 230,
+        "ocena": "4",
+        "stevilo ocen": "124"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roadclaw 275 v2",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 5 Trail",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "943"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Gravity 6",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.2",
+        "stevilo ocen": "39"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Cumulus 18",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "2609"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 510 v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "2121"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Lightning",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.2",
+        "stevilo ocen": "197"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 3000 5",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.8",
+        "stevilo ocen": "35"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Napali",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeTora Twist",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.7",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Flux 5",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.2",
+        "stevilo ocen": "424"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Streak LT 4",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.5",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Bandit 4",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.2",
+        "stevilo ocen": "93"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Helios 2.0",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "45"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 1000 7",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.3",
+        "stevilo ocen": "226"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun Forza 3",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "3.9",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 RoadTalon 240",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4",
+        "stevilo ocen": "26"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Xodus ISO 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "64"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Carson 2  ",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.5",
+        "stevilo ocen": "1334"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloud Waterproof",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "20"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Speed Ignite Netfit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Vengeful",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.1",
+        "stevilo ocen": "122"
+    },
+    {
+        "znamka": "Vivobarefoot ",
+        "model": "Vivobarefoot Primus Lite",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.2",
+        "stevilo ocen": "39"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Ultra Endurance",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1260 v7",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.2",
+        "stevilo ocen": "137"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell All Out Crush 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.1",
+        "stevilo ocen": "34"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Span 2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.4",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCore Coast v4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "105"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCore Nitrel Trail",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.2",
+        "stevilo ocen": "186"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air VaporMax Run Utility",
+        "teren": "Road",
+        "cena": 230,
+        "ocena": "4.2",
+        "stevilo ocen": "38"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Trail Talon 250",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "32"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Mazama 2",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "3.8",
+        "stevilo ocen": "48"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Cascadia 13 GTX",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.4",
+        "stevilo ocen": "32"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Express Runner",
+        "teren": "Road",
+        "cena": 70,
+        "ocena": "4.4",
+        "stevilo ocen": "40"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Cascadia 13",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.2",
+        "stevilo ocen": "337"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Speedspike CS",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.6",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Flex RN 2018",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.2",
+        "stevilo ocen": "158"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Flare Mesh",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.4",
+        "stevilo ocen": "38"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Slingride",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "203"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Prophecy 7",
+        "teren": "Road",
+        "cena": 290,
+        "ocena": "4.1",
+        "stevilo ocen": "169"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Type A8",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "20"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Highlight Delta",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "22"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Drift 2",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.1",
+        "stevilo ocen": "227"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Zealot ISO 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.9",
+        "stevilo ocen": "265"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 680 v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "257"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Neuro 2",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.3",
+        "stevilo ocen": "78"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Speedform Fortis 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "93"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Bandit 4 Team",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.4",
+        "stevilo ocen": "42"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Instinct 4.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "137"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom All Out Low 2",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.1",
+        "stevilo ocen": "166"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Flight RKT",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Gaviota 2",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.2",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Ahary Runner",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "4.1",
+        "stevilo ocen": "132"
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Meraki",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.4",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Koa ST",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "45"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Cruz v2 Nubuck",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.1",
+        "stevilo ocen": "201"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Velocity",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "137"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks PureGrit 7",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.1",
+        "stevilo ocen": "17"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 320 GTX",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.9",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Instalite Lux",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.9",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon S-Lab Sense 7",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.9",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Cell Regulate Nature Tech",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "38"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Dyad 10",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.8",
+        "stevilo ocen": "119"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Renew Rival Shield",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Speed 600 Ignite",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "43"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Fusion Flexweave",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "261"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Hexaffect Run 2.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "90"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance FuelCore Sonic v2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.6",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kenun MX",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.1",
+        "stevilo ocen": "270"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Cumulus 19",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "1283"
+    },
+    {
+        "znamka": "Topo Athletic",
+        "model": "Topo Athletic Ultrafly 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kenun Lyte MX",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.6",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Trail Crusher",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4.1",
+        "stevilo ocen": "121"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Instinct 4.5",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "3.9",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 880 v8",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Shadow 2",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.1",
+        "stevilo ocen": "17"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Vomero 14",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4",
+        "stevilo ocen": "15"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Coast",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4",
+        "stevilo ocen": "157"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Vanquish 3",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "3.9",
+        "stevilo ocen": "155"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Nimbus 20 SP",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.1",
+        "stevilo ocen": "964"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Trail Talon 275",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Summit v2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "3.7",
+        "stevilo ocen": "32"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 6",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "3.7",
+        "stevilo ocen": "964"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Sequent 4",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.1",
+        "stevilo ocen": "52"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Summit KOM",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "3.9",
+        "stevilo ocen": "27"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Drift Mineral",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "42"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Nimbus 20 Lite-Show",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "4.1",
+        "stevilo ocen": "942"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Hanzo S",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.2",
+        "stevilo ocen": "5"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 360 Shift",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.1",
+        "stevilo ocen": "760"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Agility Synthesis Flex",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "44"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno WaveKnit R2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.7",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Quantum 360 Shift MX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "95"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeX Rush CM",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "75"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Escape",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.1",
+        "stevilo ocen": "197"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Evo Jawz",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 510 v4 ",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "3223"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Pureboost RBL LTD",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4.5",
+        "stevilo ocen": "22"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Link",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "95"
+    },
+    {
+        "znamka": "Zoot",
+        "model": "Zoot Diego",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "23"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air VaporMax Flyknit Utility",
+        "teren": "Road",
+        "cena": 270,
+        "ocena": "4.3",
+        "stevilo ocen": "36"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 880 v8 GTX",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.8",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 4.0 Mid RSM",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "54"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Challenger 4 ATR",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.8",
+        "stevilo ocen": "462"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Horizon STR",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "38"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Zante v3 Breathe",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "201"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Daichi 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "36"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Rider 21 GTX",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "17"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel FujiAttack 5",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "3.7",
+        "stevilo ocen": "89"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Peregrine 8 Ice+",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.5",
+        "stevilo ocen": "15"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Linchpin",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "60"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Print Run ULTK",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "24"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Print Lite Rush",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.5",
+        "stevilo ocen": "22"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Breathe",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4.2",
+        "stevilo ocen": "46"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex CMTK",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4.2",
+        "stevilo ocen": "44"
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite Limitless SR evoKNIT",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Xodus ISO",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.7",
+        "stevilo ocen": "205"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged Reactor Run",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Addiction 13",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4",
+        "stevilo ocen": "1525"
+    },
+    {
+        "znamka": "The North Face",
+        "model": "The North Face Ultra Endurance II",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.5",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Terrex Agravic XT GTX",
+        "teren": "Road",
+        "cena": 240,
+        "ocena": "4",
+        "stevilo ocen": "18"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics NitroFuze 2",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "4",
+        "stevilo ocen": "165"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudcruiser",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "3.7",
+        "stevilo ocen": "78"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Max Sequent 3",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4",
+        "stevilo ocen": "780"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Highlight Delta 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "48"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Lycan",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.3",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN 2017 Shield",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "26"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN 2017 Shield",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "26"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Veniz",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "4.2",
+        "stevilo ocen": "43"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Koa TR",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "3.8",
+        "stevilo ocen": "34"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Z Fury Tempo",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "66"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kayano 25 OBI",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": "4.7",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Jordan",
+        "model": "Jordan Grind 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Vivobarefoot ",
+        "model": "Vivobarefoot Primus Trail FG",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "3.8",
+        "stevilo ocen": "37"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 X-Talon 260 Ultra",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "4.4",
+        "stevilo ocen": "10"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics DynaFlyte 3 Lite-Show",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.4",
+        "stevilo ocen": "10"
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Sonic",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "3.8",
+        "stevilo ocen": "24"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Pulse 9",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4",
+        "stevilo ocen": "679"
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Dyad 9",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.7",
+        "stevilo ocen": "373"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Nimbus 19",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "3.7",
+        "stevilo ocen": "3208"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeX Rush Adapt",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "3.9",
+        "stevilo ocen": "69"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Amplica",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": "3.9",
+        "stevilo ocen": "102"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Exalt 4",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "3.9",
+        "stevilo ocen": "315"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Winflo 5 Run Shield",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.4",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok All Terrain Freedom",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "75"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Agility Fusion Flex",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva VK",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.6",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Astroride Strike",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 315",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.1",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Ridgerider Trail 2.0",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": "3.9",
+        "stevilo ocen": "141"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Run Supreme 3.0 MT",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "80"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Trail Talon 290",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Lazr Sport",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": "3.9",
+        "stevilo ocen": "176"
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Overstep 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "10"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics HyperGel SAI",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4.6",
+        "stevilo ocen": "10"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 4.0 RSM",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "37"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee 2090",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee 2090",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.2",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Cruz v2 Sport",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "98"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Agility Peak Flex 2 E-Mesh",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "30"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Cohesion 12",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Arahi 3",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.9",
+        "stevilo ocen": "81"
+    },
+    {
+        "znamka": "Skechers",
+        "model": "Skechers GOrun Fast",
+        "teren": "Road",
+        "cena": 70,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Mudclaw 275",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.6",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 325",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4",
+        "stevilo ocen": "20"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Threadborne Fortis 3",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.2",
+        "stevilo ocen": "5"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Plus Runner ULTK",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Jet Dashride 6.0",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "26"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Kismet 4",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.6",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 305 GTX",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "4.1",
+        "stevilo ocen": "27"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Cypher Run Knit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "29"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Trailroc 270",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": "3.8",
+        "stevilo ocen": "12"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Pursue 4",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "4",
+        "stevilo ocen": "26"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour SpeedForm Gemini Vent",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "3.8",
+        "stevilo ocen": "61"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Fate 4",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "16"
+    },
+    {
+        "znamka": "Newton",
+        "model": "Newton Kismet 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.5",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Parkclaw 275 GTX",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "3.7",
+        "stevilo ocen": "22"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Climachill Sonic Boost",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4",
+        "stevilo ocen": "45"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Nimbus 21",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "3.5",
+        "stevilo ocen": "26"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Agility Charge Flex",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.2",
+        "stevilo ocen": "22"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Rubix",
+        "teren": "Road",
+        "cena": 200,
+        "ocena": "3.8",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Trailroc 285",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "3.7",
+        "stevilo ocen": "12"
+    },
+    {
+        "znamka": "Scott",
+        "model": "Scott Palani SPT",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Storm 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.6",
+        "stevilo ocen": "771"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics LyteRacer TS 7",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.4",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Peregrine 7 ICE+",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.7",
+        "stevilo ocen": "28"
+    },
+    {
+        "znamka": "Salming",
+        "model": "Salming Trail 5",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Charged CoolSwitch",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "3.7",
+        "stevilo ocen": "70"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Endorphin Racer 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.7",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Hupana Knit Jacquard",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.1",
+        "stevilo ocen": "18"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Pump Plus Night",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudventure Midtop",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.4",
+        "stevilo ocen": "31"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air VaporMax Flyknit Moc",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.9",
+        "stevilo ocen": "32"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Echelon 7",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.1",
+        "stevilo ocen": "13"
+    },
+    {
+        "znamka": "Merrell",
+        "model": "Merrell Trail Glove 4 Knit Wool",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "10"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 910 v4",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": "4.1",
+        "stevilo ocen": "17"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 775 v2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.7",
+        "stevilo ocen": "363"
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Vanish-R",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "3.1",
+        "stevilo ocen": "234"
+    },
+    {
+        "znamka": "Scott",
+        "model": "Scott Kinabalu Enduro",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.8",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Arctic Talon 275",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "4.3",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1340 v3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.6",
+        "stevilo ocen": "72"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Floatride Run Nite",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.3",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Hyper Tri 3",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "3.6",
+        "stevilo ocen": "99"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Instalite Run",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.6",
+        "stevilo ocen": "63"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Cruz Decon",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "4",
+        "stevilo ocen": "17"
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon Sense Ride GTX Invisible Fit",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4",
+        "stevilo ocen": "12"
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Vazee Breathe v2",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": "4",
+        "stevilo ocen": "7"
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Akyra GTX",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": "4",
+        "stevilo ocen": "10"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Guide ISO 2",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "3.6",
+        "stevilo ocen": "5"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Motion Flyknit 2018",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.8",
+        "stevilo ocen": "45"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Nimbus 19 Lite-Show",
+        "teren": "Road",
+        "cena": 210,
+        "ocena": "3.6",
+        "stevilo ocen": "534"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Kenun Knit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4",
+        "stevilo ocen": "21"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics FuzeX Knit",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.7",
+        "stevilo ocen": "35"
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Pursue 5",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Redeemer ISO 2",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": "3.4",
+        "stevilo ocen": "73"
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Echelon 6",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": "3.5",
+        "stevilo ocen": "33"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Threadborne Reveal",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.8",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Threadborne Reveal",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.8",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Pegasus 35 FlyEase",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "3.6",
+        "stevilo ocen": "17"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Structure 22",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "3",
+        "stevilo ocen": "10"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike LunarSpider R6",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": "2.9",
+        "stevilo ocen": "8"
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Strike 2 ",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": "3",
+        "stevilo ocen": "6"
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Endless Road",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.7",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Ultra Boost 19",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Jordan",
+        "model": "Jordan 89 Racer",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Cypher Run v2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Cumulus 20 MX",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Micro G Pursuit Twist",
+        "teren": "Road",
+        "cena": null,
+        "ocena": "4.6",
+        "stevilo ocen": "9"
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 Roclite 315 GTX",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Torin 3.5 Mesh",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Timp IQ",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Inov-8",
+        "model": "Inov-8 X-Talon 210",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas AlphaBounce Parley",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Ortega 2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Spinject",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Speed 500 Ignite 2",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma Ignite EvoKNIT 2",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Santiago",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Cruz Sport",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Dynafit",
+        "model": "Dynafit Ultra Pro",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Lazr Denim",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN 2018 DNA",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Lazr Nations",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Sensation 3",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Free RN Commuter 2018",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Feisu",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Xodus ISO 3",
+        "teren": "Road",
+        "cena": 180,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "La Sportiva",
+        "model": "La Sportiva Lycan GTX",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Under Armour",
+        "model": "Under Armour Horizon BPF",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Reebok",
+        "model": "Reebok Fusion Flexweave Cage",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "On",
+        "model": "On Cloudflyer Waterproof",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Arishi v2",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Kinvara 10",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 7",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Roadhawk FF 2 MX",
+        "teren": "Road",
+        "cena": 120,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Adidas",
+        "model": "Adidas Aerobounce ST 2 ",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "361 Degrees",
+        "model": "361 Degrees Spire 3",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Puma",
+        "model": "Puma NRGY Comet",
+        "teren": "Road",
+        "cena": 80,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Cumulus 20 SP",
+        "teren": "Road",
+        "cena": 150,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Salomon",
+        "model": "Salomon S-Lab Sense 7 SG",
+        "teren": "Road",
+        "cena": 220,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Altra",
+        "model": "Altra Lone Peak 4.0 Mid Mesh",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics HyperGel KAN",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Sonoma 4",
+        "teren": "Road",
+        "cena": 100,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance 1500 v5",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Hierro v4",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics GT 2000 7 Trail",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Mizuno",
+        "model": "Mizuno Wave Inspire 15",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Saucony",
+        "model": "Saucony Hurricane ISO 5",
+        "teren": "Road",
+        "cena": 200,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "New Balance",
+        "model": "New Balance Fresh Foam Zante Pursuit",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel FujiTrabuco 7",
+        "teren": "Road",
+        "cena": 160,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Brooks",
+        "model": "Brooks Transcend 6",
+        "teren": "Road",
+        "cena": 190,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Speedgoat 3",
+        "teren": "Road",
+        "cena": 170,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Air Zoom Streak 7",
+        "teren": "Road",
+        "cena": 140,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Hoka One One",
+        "model": "Hoka One One Stinson ATR 5",
+        "teren": "Road",
+        "cena": null,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Asics",
+        "model": "Asics Gel Torrance MX",
+        "teren": "Road",
+        "cena": 90,
+        "ocena": null,
+        "stevilo ocen": null
+    },
+    {
+        "znamka": "Nike",
+        "model": "Nike Zoom Strike 2 Shield",
+        "teren": "Road",
+        "cena": 110,
+        "ocena": null,
+        "stevilo ocen": null
+    }
+]
