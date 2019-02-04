@@ -100,9 +100,10 @@ def zapisi_stran(podatki):
 
 
 #regularni izraz, ki bo nasel ceno modela
-vzorec_cena = re.compile(r'<span class="offer_list_price">(?P<cena>.*?)</span>', flags=re.DOTALL)
+#vzorec_cena = re.compile(r'<span class="offer_list_price">(?P<cena>.*?)</span>', flags=re.DOTALL)
+vzorec_cena = re.compile(r'<span class="have_info">(\n.*?)Price(\n.*?)</span>(\n.*)</div>(\n.*?)<div class="fact-value text-left">(?P<cena>.*?)</div>')
 #izraz, ki bo nasel teren
-vzorec_teren = re.compile(r'<div id="terrain-description" class="hide"><h4>(?P<teren>.*?)</h4>')
+vzorec_teren = re.compile(r'<div class="fact-value text-left"><div><a href=(.*?) data-slug=(.*?)>(?P<teren>.*?)</a></div></div>\n.*?<div id="terrain-description" class="hide">')
 #izraz, ki najde znamko
 # znamka= re.compile(r'<div><span class="rank-text">Top  1% overall</span></div>\n.*?<div><span class="top-list">Best running shoes</span></div>\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?\n.*?<div><span class="rank-text">Top  1% (?P<znamka>.*?)</span></div>\n.*?<div><span class="top-list">Best (?P<znamka_drugic>.*?) running shoes</span></div>')
 #izraz, ki najde ime modela 
@@ -115,12 +116,14 @@ ocena_in_st = re.compile(r'<h3 id="user_reviews" class="text-left my_rating_titl
 
 znamka_preko_linka = re.compile(r'<img src="(?P<karkoli>.*?)" alt="(?P<znamka>.*?) brand logo">')
 
-podatki57 = {}
-vsebina2 = vsebina_datoteke('modeli/model-957.html')
-for ujemanje3 in ocena_in_st.finditer(vsebina2):
-    test = ujemanje3.groupdict(1)
-    test2 = test['ocena']
-    podatki57['neki']  = test2
+# podatki57 = {}
+# vsebina2 = vsebina_datoteke('modeli/model-957.html')
+# for ujemanje3 in cena.finditer(vsebina2):
+#     test = ujemanje3.groupdict()
+    
+#     print(test)
+
+   
 
     
 def izloci_podatke_modela(vsebina):

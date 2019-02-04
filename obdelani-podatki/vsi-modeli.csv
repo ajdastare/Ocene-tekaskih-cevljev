@@ -1,11 +1,11 @@
 znamka,model,teren,cena,ocena,stevilo ocen
 Nike,Nike Air Zoom Winflo 4,Road,110,4.7,97
 Altra,Altra Escalante 1.5,Road,160,4.7,251
-Merrell,Merrell All Out Crush Tough Mudder 2 BOA,Road,,4.8,66
+Merrell,Merrell All Out Crush Tough Mudder 2 BOA,Trail,150,4.8,66
 Skechers,Skechers GOrun Ride 7,Road,110,4.6,147
 Adidas,Adidas Solar Glide,Road,170,4.5,157
-Xero Shoes,Xero Shoes Prio,Road,,4.6,886
-Reebok,Reebok Zigwild TR 5.0,Road,,4.8,70
+Xero Shoes,Xero Shoes Prio,Trail,110,4.6,886
+Reebok,Reebok Zigwild TR 5.0,Road,140,4.8,70
 Asics,Asics Gel Kayano 25,Road,190,4.6,1030
 Salomon,Salomon Sonic RA Max,Road,160,4.6,72
 Adidas,Adidas Ultraboost Clima,Road,270,4.7,731
@@ -14,93 +14,93 @@ Adidas,Adidas Ultra Boost Uncaged,Road,220,4.8,821
 Brooks,Brooks Adrenaline GTS 19,Road,160,4.6,209
 Hoka One One,Hoka One One Clifton 1,Road,160,4.6,202
 Brooks,Brooks Ghost 11,Road,150,4.5,2162
-The North Face,The North Face Endurus TR,Road,160,4.8,60
-Hoka One One,Hoka One One Torrent,Road,150,4.4,47
-Nike,Nike Air Zoom Odyssey,Road,,4.7,209
+The North Face,The North Face Endurus TR,Trail,160,4.8,60
+Hoka One One,Hoka One One Torrent,Trail,150,4.4,47
+Nike,Nike Air Zoom Odyssey,Road,180,4.7,209
 Under Armour,Under Armour Dash RN 2,Road,80,4.5,465
 Nike,Nike Revolution 4,Road,80,4.6,2225
 Altra,Altra Escalante,Road,160,4.6,484
-Adidas,Adidas Terrex Skychaser GTX,Road,240,4.6,385
+Adidas,Adidas Terrex Skychaser GTX,Trail,240,4.6,385
 Skechers,Skechers GOrun 600,Road,80,4.7,163
 Under Armour,Under Armour Charged Escape 2,Road,110,4.7,128
 Puma,Puma Carson 2 X Knit,Road,80,4.7,58
 Brooks,Brooks Revel,Road,120,4.5,2111
 Asics,Asics Gel Fortitude 7,Road,150,4.5,239
-Adidas,Adidas Adistar Boost ESM,Road,,4.6,318
+Adidas,Adidas Adistar Boost ESM,Road,210,4.6,318
 Brooks,Brooks Ghost 10,Road,150,4.6,3099
-Nike,Nike LunarEpic Flyknit Shield,Road,,4.6,61
+Nike,Nike LunarEpic Flyknit Shield,Road,240,4.6,61
 On,On Cloudflow,Road,170,4.7,202
-Brooks,Brooks Ricochet LE,Road,,4.7,55
-Nike,Nike Air Zoom Pegasus 32,Road,,4.6,806
-The North Face,The North Face Ultra 109 GTX,Road,,4.5,843
+Brooks,Brooks Ricochet LE,Road,150,4.7,55
+Nike,Nike Air Zoom Pegasus 32,Road,140,4.6,806
+The North Face,The North Face Ultra 109 GTX,Trail,150,4.5,843
 Asics,Asics GT 1000 4,Road,120,4.6,1935
 Nike,Nike Air Zoom Pegasus 35,Road,150,4.4,1180
 Nike,Nike Free RN 2018,Road,120,4.5,1037
 Nike,Nike Zoom Fly SP,Road,180,4.3,807
 New Balance,New Balance 1400 v6,Road,120,4.4,95
 New Balance,New Balance Fresh Foam Beacon,Road,150,4.5,105
-Topo Athletic,Topo Athletic MT-2,Road,,4.5,53
+Topo Athletic,Topo Athletic MT-2,Trail,120,4.5,53
 Asics,Asics Dynamis,Road,190,4.5,48
-Saucony,Saucony Ride 7,Road,,4.5,954
-Altra,Altra Lone Peak 4.0,Road,150,4.5,218
+Saucony,Saucony Ride 7,Road,150,4.5,954
+Altra,Altra Lone Peak 4.0,Trail,150,4.5,218
 Saucony,Saucony Fastwitch 8,Road,110,4.6,65
 Puma,Puma Ignite Limitless Weave,Road,150,4.7,58
 Salomon,Salomon Sonic RA Pro,Road,160,4.7,51
 Adidas,Adidas Supernova Sequence Boost 9,Road,160,4.5,360
 Adidas,Adidas Pure Boost Go,Road,150,4.5,444
-Asics,Asics Gel Venture 6,Road,90,4.5,2495
-Adidas,Adidas Falcon Elite 5,Road,,4.6,87
+Asics,Asics Gel Venture 6,Trail,90,4.5,2495
+Adidas,Adidas Falcon Elite 5,Road,110,4.6,87
 Puma,Puma Carson 2 Knit,Road,80,4.7,146
 Reebok,Reebok Print Run 3.0,Road,100,4.7,65
 Under Armour,Under Armour HOVR Sonic,Road,120,4.5,296
 Mizuno,Mizuno Wave Rider 21,Road,150,4.6,692
-Saucony,Saucony Breakthru 2,Road,,4.7,86
+Saucony,Saucony Breakthru 2,Road,120,4.7,86
 Adidas,Adidas Adizero Boston Boost 6,Road,150,4.6,323
-Adidas,Adidas Adizero Sub 2,Road,,4.6,61
+Adidas,Adidas Adizero Sub 2,Road,220,4.6,61
 Vivobarefoot ,Vivobarefoot Primus Lux,Road,210,4.3,62
-Saucony,Saucony Excursion TR 12,Road,,4.7,239
+Saucony,Saucony Excursion TR 12,Trail,90,4.7,239
 Nike,Nike Free RN Flyknit 2018,Road,150,4.5,510
 Nike,Nike Flex Fury 2,Road,90,4.6,430
 Adidas,Adidas Ultraboost Uncaged Parley,Road,240,4.6,113
-Merrell,Merrell All Out Crush Tough Mudder 2,Road,120,4.7,135
+Merrell,Merrell All Out Crush Tough Mudder 2,Trail,120,4.7,135
 Adidas,Adidas Ultra Boost All Terrain,Road,270,4.6,722
 Hoka One One,Hoka One One Tracer 2,Road,160,4.4,48
 Brooks,Brooks Glycerin 15,Road,180,4.5,2166
-Nike,Nike Air Zoom Pegasus 34 Shield,Road,,4.5,1398
+Nike,Nike Air Zoom Pegasus 34 Shield,Road,150,4.5,1398
 Adidas,Adidas Ultra Boost ST Parley,Road,240,4.4,223
-Adidas,Adidas Questar Trail,Road,100,4.7,84
+Adidas,Adidas Questar Trail,Trail,100,4.7,84
 Asics,Asics Gel Evate 3,Road,180,4.7,159
 Altra,Altra Paradigm 4.0,Road,180,4.4,114
-La Sportiva,La Sportiva Akyra,Road,170,4.6,81
+La Sportiva,La Sportiva Akyra,Trail,170,4.6,81
 Brooks,Brooks Adrenaline GTS 18,Road,150,4.4,3656
-Reebok,Reebok Zig Pulse,Road,,4.5,260
-Nike,Nike Downshifter 7,Road,,4.5,1528
+Reebok,Reebok Zig Pulse,Road,110,4.5,260
+Nike,Nike Downshifter 7,Road,80,4.5,1528
 Nike,Nike Air Zoom Structure 21,Road,150,4.5,139
 Adidas,Adidas Aerobounce PR,Road,110,4.6,91
 Salomon,Salomon Sonic RA,Road,160,4.5,117
-Merrell,Merrell Trail Glove 4,Road,120,4.4,1103
+Merrell,Merrell Trail Glove 4,Trail,120,4.4,1103
 New Balance,New Balance Fresh Foam Vongo v3,Road,170,4.6,64
-Adidas,Adidas Questar Boost,Road,,4.5,341
-Brooks,Brooks Cascadia 12,Road,160,4.4,522
-Merrell,Merrell Trail Glove 4 E-Mesh,Road,150,4.6,204
-Xero Shoes,Xero Shoes TerraFlex,Road,,4.3,104
-Skechers,Skechers GOrun Forza,Road,,4.6,182
+Adidas,Adidas Questar Boost,Road,120,4.5,341
+Brooks,Brooks Cascadia 12,Trail,160,4.4,522
+Merrell,Merrell Trail Glove 4 E-Mesh,Trail,150,4.6,204
+Xero Shoes,Xero Shoes TerraFlex,Trail,120,4.3,104
+Skechers,Skechers GOrun Forza,Road,150,4.6,182
 Brooks,Brooks Glycerin 16,Road,180,4.4,744
 Brooks,Brooks Launch 4,Road,120,4.5,1807
 Asics,Asics Roadhawk FF,Road,120,4.4,321
 Adidas,Adidas Duramo 7,Road,80,4.6,1137
-Brooks,Brooks Caldera,Road,170,4.5,251
-New Balance,New Balance 990 v4,Road,,4.6,6460
+Brooks,Brooks Caldera,Trail,170,4.5,251
+New Balance,New Balance 990 v4,Road,200,4.6,6460
 Adidas,Adidas Duramo 8,Road,80,4.5,261
 Mizuno,Mizuno Wave Sky,Road,180,4.5,202
-Nike,Nike Flyknit Lunar 3,Road,,4.6,261
+Nike,Nike Flyknit Lunar 3,Road,180,4.6,261
 New Balance,New Balance Fresh Foam 1080 v9,Road,180,4.3,246
-Nike,Nike LunarStelos,Road,,4.6,287
+Nike,Nike LunarStelos,Road,110,4.6,287
 Mizuno,Mizuno Wave Rider 20,Road,150,4.6,733
 Saucony,Saucony Kinvara 9,Road,140,4.4,186
-Adidas,Adidas Climachill Rocket,Road,,4.5,188
-Adidas,Adidas Terrex Tracerocker,Road,100,4.4,336
-Asics,Asics Gel Surveyor 3,Road,,4.6,133
+Adidas,Adidas Climachill Rocket,Road,150,4.5,188
+Adidas,Adidas Terrex Tracerocker,Trail,100,4.4,336
+Asics,Asics Gel Surveyor 3,Road,190,4.6,133
 Adidas,Adidas Solar Boost,Road,190,4.4,625
 Adidas,Adidas Energy Boost 3,Road,190,4.6,627
 Under Armour,Under Armour Threadborne Slingflex,Road,120,4.4,227
@@ -108,61 +108,61 @@ Puma,Puma Jamming,Road,190,4.7,29
 Mizuno,Mizuno Wave Inspire 14,Road,160,4.5,338
 Brooks,Brooks Launch 5,Road,120,4.5,1301
 Nike,Nike Zoom Fly,Road,180,4.5,288
-On,On Cloudsurfer,Road,,4.6,246
-Adidas,Adidas Terrex Agravic Speed,Road,150,4.5,310
-Salomon,Salomon X-Mission 3,Road,140,4.5,1621
+On,On Cloudsurfer,Road,170,4.6,246
+Adidas,Adidas Terrex Agravic Speed,Trail,150,4.5,310
+Salomon,Salomon X-Mission 3,Trail,140,4.5,1621
 Merrell,Merrell Vapor Glove 3,Road,100,4.3,3035
-Adidas,Adidas Pure Boost All Terrain,Road,,4.5,951
-Nike,Nike Air Zoom Elite 8,Road,,4.6,119
-New Balance,New Balance 1540 v2,Road,,4.4,404
-Adidas,Adidas Pure Boost DPR LTD,Road,,4.5,108
+Adidas,Adidas Pure Boost All Terrain,Trail,190,4.5,951
+Nike,Nike Air Zoom Elite 8,Road,140,4.6,119
+New Balance,New Balance 1540 v2,Road,190,4.4,404
+Adidas,Adidas Pure Boost DPR LTD,Road,210,4.5,108
 Asics,Asics Gel Kinsei 6,Road,240,4.5,540
 Skechers,Skechers GOrun Mojo,Road,80,4.6,116
 New Balance,New Balance Vazee Rush v2,Road,110,4.5,95
 Brooks,Brooks Levitate 2,Road,180,4.5,459
 Nike,Nike Revolution 3,Road,80,4.5,3501
-Salomon,Salomon Sense Pro Max,Road,180,4.4,66
-Inov-8,Inov-8 Mudclaw 300,Road,150,4.5,156
+Salomon,Salomon Sense Pro Max,Trail,180,4.4,66
+Inov-8,Inov-8 Mudclaw 300,Trail,150,4.5,156
 Asics,Asics Gel Foundation 13,Road,150,4.6,165
-Adidas,Adidas Adizero Prime Parley,Road,,4.4,220
+Adidas,Adidas Adizero Prime Parley,Road,240,4.4,220
 Adidas,Adidas Supernova,Road,160,4.5,563
 Brooks,Brooks PureCadence 6,Road,140,4.4,291
-Salomon,Salomon Speedcross 4 GTX,Road,190,4.5,2140
+Salomon,Salomon Speedcross 4 GTX,Trail,190,4.5,2140
 Asics,Asics DynaFlyte 2,Road,160,4.5,162
 New Balance,New Balance Fresh Foam Vongo,Road,160,4.5,218
-Topo Athletic,Topo Athletic Runventure 2,Road,,4.9,20
-On,On Cloudventure Peak,Road,,4.4,61
-Nike,Nike Air Zoom Winflo 3,Road,,4.6,140
-Nike,Nike Air Zoom Span,Road,,4.7,13
-Salomon,Salomon Sense Ride,Road,150,4.4,290
-Saucony,Saucony Zealot ISO,Road,,4.5,403
-Nike,Nike Free Train Instinct,Road,,4.7,85
-Brooks,Brooks Caldera 2,Road,,4.3,76
-Nike,Nike FS Lite Run 4,Road,,4.6,172
-Nike,Nike Air Zoom Elite 7,Road,,4.6,46
+Topo Athletic,Topo Athletic Runventure 2,Trail,140,4.9,20
+On,On Cloudventure Peak,Trail,180,4.4,61
+Nike,Nike Air Zoom Winflo 3,Road,100,4.6,140
+Nike,Nike Air Zoom Span,Road,120,4.7,13
+Salomon,Salomon Sense Ride,Trail,150,4.4,290
+Saucony,Saucony Zealot ISO,Road,160,4.5,403
+Nike,Nike Free Train Instinct,Road,160,4.7,85
+Brooks,Brooks Caldera 2,Trail,170,4.3,76
+Nike,Nike FS Lite Run 4,Road,90,4.6,172
+Nike,Nike Air Zoom Elite 7,Road,140,4.6,46
 New Balance,New Balance 1500 v4,Road,140,4.3,177
 Adidas,Adidas Ultra Boost Parley,Road,240,4.6,1252
-Altra,Altra Olympus 3.0,Road,180,4.4,86
+Altra,Altra Olympus 3.0,Trail,180,4.4,86
 Adidas,Adidas AlphaBounce Instinct,Road,150,4.3,71
 Nike,Nike Air Zoom Vomero 11,Road,170,4.5,298
-Inov-8,Inov-8 Roclite 290,Road,150,4.4,83
+Inov-8,Inov-8 Roclite 290,Trail,150,4.4,83
 Mizuno,Mizuno Wave Horizon 2,Road,190,4.5,92
 Nike,Nike Air Zoom Vomero 12,Road,170,4.4,317
 Saucony,Saucony Liberty ISO,Road,190,4.7,33
 Adidas,Adidas Pure Boost,Road,170,4.5,506
 Nike,Nike Air Zoom Pegasus 33,Road,140,4.5,1345
-Under Armour,Under Armour Speed Swift 2,Road,,4.6,144
-Salomon,Salomon Sense Pro 2,Road,160,4.5,116
-La Sportiva,La Sportiva Mutant,Road,160,4.5,86
+Under Armour,Under Armour Speed Swift 2,Road,60,4.6,144
+Salomon,Salomon Sense Pro 2,Trail,160,4.5,116
+La Sportiva,La Sportiva Mutant,Trail,160,4.5,86
 Under Armour,Under Armour Charged Bandit 3,Road,120,4.2,492
-Brooks,Brooks PureGrit 6,Road,150,4.4,70
+Brooks,Brooks PureGrit 6,Trail,150,4.4,70
 Skechers,Skechers GOrun 6,Road,120,4.4,88
 Hoka One One,Hoka One One Bondi 6,Road,180,4.3,354
-Reebok,Reebok Zigwild TR 2,Road,,4.6,354
+Reebok,Reebok Zigwild TR 2,Trail,110,4.6,354
 Saucony,Saucony Ride 10,Road,150,4.4,676
-Adidas,Adidas Galaxy Trail,Road,80,4.6,507
+Adidas,Adidas Galaxy Trail,Trail,80,4.6,507
 Adidas,Adidas Ultra Boost ST,Road,220,4.5,599
-Salomon,Salomon Speedcross 4,Road,160,4.5,6625
+Salomon,Salomon Speedcross 4,Trail,160,4.5,6625
 Saucony,Saucony Zealot ISO 3,Road,160,4.3,97
 Nike,Nike Zoom Fly Flyknit,Road,190,4.4,91
 Brooks,Brooks Ravenna 9,Road,140,4.4,507
@@ -170,45 +170,45 @@ Asics,Asics Gel Kayano 24,Road,190,4.4,2241
 Puma,Puma Ignite EvoKNIT,Road,160,4.5,180
 Adidas,Adidas Solar Glide ST,Road,180,4.6,565
 Brooks,Brooks Adrenaline GTS 17,Road,160,4.5,3040
-Topo Athletic,Topo Athletic Terraventure,Road,140,4.4,66
+Topo Athletic,Topo Athletic Terraventure,Trail,140,4.4,66
 Adidas,Adidas Response 3,Road,140,4.6,177
-Inov-8,Inov-8 Trail Talon 235,Road,140,4.5,28
-On,On Cloudflash,Road,,4.6,208
+Inov-8,Inov-8 Trail Talon 235,Trail,140,4.5,28
+On,On Cloudflash,Road,220,4.6,208
 Hoka One One,Hoka One One Arahi 2,Road,160,4.3,449
 Reebok,Reebok Fast Flexweave,Road,120,4.5,324
 Nike,Nike Air Zoom Pegasus 34,Road,140,4.4,652
 Nike,Nike LunarEpic Flyknit,Road,210,4.5,237
 Asics,Asics DynaFlyte,Road,170,4.4,518
 Brooks,Brooks Ricochet,Road,150,4.5,1247
-Asics,Asics Gel Venture 5,Road,,4.4,11207
-Saucony,Saucony Omni 13,Road,,4.3,367
+Asics,Asics Gel Venture 5,Trail,80,4.4,11207
+Saucony,Saucony Omni 13,Road,160,4.3,367
 Brooks,Brooks Pureflow 7,Road,120,4.4,471
 Mizuno,Mizuno Wave Inspire 13,Road,150,4.5,523
 Adidas,Adidas Questar Ride,Road,90,4.6,415
-Vibram FiveFingers,Vibram FiveFingers V-Trail,Road,150,4.4,483
+Vibram FiveFingers,Vibram FiveFingers V-Trail,Trail,150,4.4,483
 Puma,Puma Hybrid Rocket Runner,Road,150,4.8,29
 Asics,Asics Gel Nimbus 18,Road,180,4.4,3536
 Nike,Nike Air Zoom Elite 9,Road,150,4.3,132
 Puma,Puma Ignite Disc,Road,160,4.5,76
 Salomon,Salomon Sonic Pro,Road,170,4.6,3826
 Hoka One One,Hoka One One Hupana,Road,140,4.4,160
-La Sportiva,La Sportiva Ultra Raptor,Road,160,4.5,230
-Altra,Altra Lone Peak 3.0,Road,,4.5,925
+La Sportiva,La Sportiva Ultra Raptor,Trail,160,4.5,230
+Altra,Altra Lone Peak 3.0,Trail,150,4.5,925
 Hoka One One,Hoka One One Gaviota,Road,180,4.4,279
 Skechers,Skechers GOrun Forza 2,Road,140,4.5,69
-Adidas,Adidas Powerblaze,Road,,4.3,928
-Adidas,Adidas AlphaBounce Engineered Mesh,Road,,4.6,295
+Adidas,Adidas Powerblaze,Road,90,4.3,928
+Adidas,Adidas AlphaBounce Engineered Mesh,Road,140,4.6,295
 Nike,Nike Zoom All Out Low,Road,170,4.5,259
-Nike,Nike FS Lite Run 3,Road,,4.5,971
+Nike,Nike FS Lite Run 3,Road,90,4.5,971
 Brooks,Brooks PureCadence 7,Road,140,4.3,180
-Under Armour,Under Armour SpeedForm Apollo 2,Road,,4.5,222
+Under Armour,Under Armour SpeedForm Apollo 2,Road,120,4.5,222
 Asics,Asics GT 2000 6 Lite-Show,Road,160,4.6,43
 Brooks,Brooks Beast 18,Road,190,4.3,1015
 Hoka One One,Hoka One One Clifton 5 Knit,Road,170,4.3,219
-Skechers,Skechers GOrun 3,Road,,4.5,84
-Under Armour,Under Armour Fat Tire 3,Road,,4.2,63
+Skechers,Skechers GOrun 3,Road,120,4.5,84
+Under Armour,Under Armour Fat Tire 3,Trail,180,4.2,63
 Nike,Nike Free RN 2018 Sun,Road,120,4.5,115
-Adidas,Adidas Element Athletic,Road,,4.5,282
+Adidas,Adidas Element Athletic,Road,90,4.5,282
 Zoot,Zoot Del Mar,Road,170,4.5,77
 Altra,Altra Torin 3.0,Road,150,4.3,324
 Nike,Nike Air VaporMax Flyknit Moc 2,Road,240,4.5,56
@@ -217,416 +217,416 @@ Under Armour,Under Armour Charged Bandit,Road,120,4.5,139
 Adidas,Adidas Pure Boost DPR,Road,180,4.5,1095
 Brooks,Brooks Levitate,Road,180,4.4,554
 New Balance,New Balance Fresh Foam 1080 v8,Road,180,4.4,576
-Merrell,Merrell Agility Peak Flex,Road,160,4.4,71
+Merrell,Merrell Agility Peak Flex,Trail,160,4.4,71
 Salomon,Salomon Sonic Aero,Road,150,4.5,211
-Adidas,Adidas Terrex Swift R GTX,Road,,4.4,762
-Nike,Nike Flex Fury,Road,,4.5,432
-Brooks,Brooks Levitate 2 LE,Road,,4.5,180
-Puma,Puma Carson Runner,Road,,4.5,517
-Asics,Asics FuzeX Lyte 2,Road,,4.5,298
-Inov-8,Inov-8 Roclite 305,Road,160,4.4,77
+Adidas,Adidas Terrex Swift R GTX,Trail,170,4.4,762
+Nike,Nike Flex Fury,Road,110,4.5,432
+Brooks,Brooks Levitate 2 LE,Road,180,4.5,180
+Puma,Puma Carson Runner,Road,80,4.5,517
+Asics,Asics FuzeX Lyte 2,Road,110,4.5,298
+Inov-8,Inov-8 Roclite 305,Trail,160,4.4,77
 Under Armour,Under Armour SpeedForm Gemini 2,Road,160,4.5,570
 Nike,Nike Air Zoom Pegasus 34 FlyEase,Road,140,4.5,322
 Adidas,Adidas AlphaBounce Beyond,Road,150,4.5,1258
 Nike,Nike Air Zoom Winflo 5,Road,110,4.5,353
 Under Armour,Under Armour Micro G Assert 6,Road,90,4.4,1607
 Adidas,Adidas AlphaBounce RC,Road,110,4.5,514
-Salomon,Salomon XA Enduro,Road,190,4.4,93
+Salomon,Salomon XA Enduro,Trail,190,4.4,93
 Asics,Asics Gel Quantum 360 4,Road,190,4.5,441
-Hoka One One,Hoka One One Speedgoat 2,Road,170,4.3,324
-Nike,Nike Flyknit Racer,Road,,4.4,2061
+Hoka One One,Hoka One One Speedgoat 2,Trail,170,4.3,324
+Nike,Nike Flyknit Racer,Road,180,4.4,2061
 Nike,Nike Free RN Distance 2,Road,150,4.5,841
 Skechers,Skechers GOrun 5,Road,120,4.4,197
 On,On Cloud X,Road,170,4.2,569
-Asics,Asics Gel Surveyor 5,Road,,4.5,153
-Saucony,Saucony Omni 14,Road,,4.5,445
+Asics,Asics Gel Surveyor 5,Road,190,4.5,153
+Saucony,Saucony Omni 14,Road,160,4.5,445
 Nike,Nike Air Max Fury,Road,150,4.4,102
 Asics,Asics GT 1000 7 SP,Road,110,4.5,107
-Merrell,Merrell Bare Access Ultra,Road,,4.4,170
+Merrell,Merrell Bare Access Ultra,Road,120,4.4,170
 Adidas,Adidas Ultra Boost Laceless,Road,240,4.5,1557
-Zoot,Zoot Ultra Tempo 6.0,Road,,4.5,57
+Zoot,Zoot Ultra Tempo 6.0,Road,150,4.5,57
 Reebok,Reebok Speedlux 2.0,Road,70,4.5,86
-Adidas,Adidas Terrex Skychaser,Road,190,4.5,334
+Adidas,Adidas Terrex Skychaser,Trail,190,4.5,334
 Adidas,Adidas AlphaBounce RC 2.0,Road,150,4.5,51
-Asics,Asics Gecko XT,Road,150,4.1,54
-Jordan,Jordan 88 Racer,Road,,4.5,163
+Asics,Asics Gecko XT,Trail,150,4.1,54
+Jordan,Jordan 88 Racer,Road,120,4.5,163
 Mizuno,Mizuno Wave Inspire 12,Road,150,4.4,1015
 Puma,Puma Carson 2 Nature Knit ,Road,80,4.5,118
 Asics,Asics Gel Excite 4,Road,110,4.3,2889
-Salomon,Salomon S-Lab Sense 6 SG,Road,220,4.5,119
-New Balance,New Balance Fresh Foam Gobi Trail,Road,120,4.4,149
+Salomon,Salomon S-Lab Sense 6 SG,Trail,220,4.5,119
+New Balance,New Balance Fresh Foam Gobi Trail,Trail,120,4.4,149
 Asics,Asics Comutora MX,Road,90,4.7,27
-Under Armour,Under Armour SpeedForm Slingride TRI,Road,,4.5,169
+Under Armour,Under Armour SpeedForm Slingride TRI,Road,120,4.5,169
 Asics,Asics DynaFlyte 3,Road,160,4.4,34
-Hoka One One,Hoka One One Tor Ultra Hi WP,Road,,4.4,263
+Hoka One One,Hoka One One Tor Ultra Hi WP,Trail,280,4.4,263
 Under Armour,Under Armour SpeedForm Intake 2,Road,120,4.5,235
 Under Armour,Under Armour SpeedForm Slingshot 2,Road,120,4.5,247
-New Balance,New Balance Fresh Foam Gobi Trail v2,Road,,4.3,73
-Saucony,Saucony Ride 8,Road,,4.4,720
+New Balance,New Balance Fresh Foam Gobi Trail v2,Trail,120,4.3,73
+Saucony,Saucony Ride 8,Road,150,4.4,720
 Under Armour,Under Armour Micro G Pursuit,Road,90,4.5,672
-Reebok,Reebok OSR Grasse Road,Road,,5,7
+Reebok,Reebok OSR Grasse Road,Road,150,5,7
 Hoka One One,Hoka One One Cavu,Road,140,4.3,147
 Nike,Nike Flex RN 2017,Road,110,4.3,3485
-Saucony,Saucony Cohesion 10,Road,,4.5,2018
+Saucony,Saucony Cohesion 10,Road,80,4.5,2018
 Asics,Asics Gel Quantum 360 Knit,Road,240,4.4,1058
 Saucony,Saucony Kinvara 8,Road,140,4.4,207
 Topo Athletic,Topo Athletic Magnifly 2,Road,140,4.4,30
 Under Armour,Under Armour SpeedForm Slingshot,Road,170,4.4,115
-The North Face,The North Face Ultra Cardiac,Road,,4.4,49
-Nike,Nike LunarGlide 8 Shield,Road,,4.3,244
+The North Face,The North Face Ultra Cardiac,Trail,140,4.4,49
+Nike,Nike LunarGlide 8 Shield,Road,170,4.3,244
 Hoka One One,Hoka One One Bondi 5,Road,180,4.4,1377
-Topo Athletic,Topo Athletic Hydroventure,Road,160,4.4,51
+Topo Athletic,Topo Athletic Hydroventure,Trail,160,4.4,51
 Brooks,Brooks Pureflow 6,Road,120,4.5,495
-La Sportiva,La Sportiva Akasha,Road,170,4.4,99
+La Sportiva,La Sportiva Akasha,Trail,170,4.4,99
 Skechers,Skechers GOmeb Razor 2,Road,140,4.6,13
-On,On Cloudrunner,Road,,4.3,70
+On,On Cloudrunner,Road,180,4.3,70
 Saucony,Saucony Triumph ISO 2,Road,180,4.2,1502
-Adidas,Adidas Element Refine Tricot,Road,,4.5,106
-Saucony,Saucony Guide 8,Road,,4.5,1304
-Adidas,Adidas Terrex Agravic,Road,170,4.5,181
-Asics,Asics Gel FujiTrabuco 6,Road,160,4.5,327
+Adidas,Adidas Element Refine Tricot,Road,90,4.5,106
+Saucony,Saucony Guide 8,Road,150,4.5,1304
+Adidas,Adidas Terrex Agravic,Trail,170,4.5,181
+Asics,Asics Gel FujiTrabuco 6,Trail,160,4.5,327
 Saucony,Saucony Guide ISO,Road,150,4.2,263
 Brooks,Brooks Ghost 11 GTX,Road,180,4.5,515
 Zoot,Zoot Laguna,Road,140,4.4,27
-Asics,Asics Gel Exalt 2,Road,,4.5,630
-Merrell,Merrell All Out Charge,Road,150,4.4,538
-Nike,Nike Downshifter 6,Road,,4.4,939
+Asics,Asics Gel Exalt 2,Road,110,4.5,630
+Merrell,Merrell All Out Charge,Trail,150,4.4,538
+Nike,Nike Downshifter 6,Road,80,4.4,939
 Asics,Asics Roadhawk FF 2,Road,120,4.3,140
 Adidas,Adidas Duramo 9,Road,80,4.5,445
-Altra,Altra King MT,Road,,4.4,59
-Reebok,Reebok Zig Pulse SE,Road,,4.5,116
-Asics,Asics Gel Vanisher,Road,,4.5,286
+Altra,Altra King MT,Trail,170,4.4,59
+Reebok,Reebok Zig Pulse SE,Road,110,4.5,116
+Asics,Asics Gel Vanisher,Road,90,4.5,286
 New Balance,New Balance Fresh Foam Zante v4,Road,120,4.2,279
 Saucony,Saucony Guide 9,Road,150,4.3,1351
-Salomon,Salomon XA Pro 3D CS WP,Road,,4.2,484
-Saucony,Saucony Cortana 4,Road,,4.6,55
-Nike,Nike Free RN Motion Flyknit,Road,,4.3,1281
+Salomon,Salomon XA Pro 3D CS WP,Trail,180,4.2,484
+Saucony,Saucony Cortana 4,Road,180,4.6,55
+Nike,Nike Free RN Motion Flyknit,Road,180,4.3,1281
 Adidas,Adidas Ultra Boost,Road,220,4.4,4644
 Mizuno,Mizuno Wave Sky 2,Road,180,4.4,44
 Hoka One One,Hoka One One Hupana 2,Road,140,4.2,135
-Adidas,Adidas Terrex Trailmaker GTX,Road,170,4.5,127
-Nike,Nike Air Relentless 6,Road,,4.5,252
-Asics,Asics Gel Quantum 180 3,Road,,4.5,50
-Saucony,Saucony Kinvara 6,Road,,4.3,685
+Adidas,Adidas Terrex Trailmaker GTX,Trail,170,4.5,127
+Nike,Nike Air Relentless 6,Road,90,4.5,252
+Asics,Asics Gel Quantum 180 3,Road,160,4.5,50
+Saucony,Saucony Kinvara 6,Road,140,4.3,685
 Adidas,Adidas Supernova ST,Road,160,4.7,456
-Nike,Nike Free RN Motion Flyknit 2017,Road,,4.3,4702
+Nike,Nike Free RN Motion Flyknit 2017,Road,180,4.3,4702
 Newton,Newton Gravity 7,Road,210,4.4,29
 Nike,Nike LunarConverge,Road,90,4.5,211
 Altra,Altra Torin 3.5 Knit,Road,170,4.3,54
-Adidas,Adidas Cosmic 2.0 SL,Road,,4.5,715
-Under Armour,Under Armour Freedom Assert 6,Road,,4.5,67
-Mizuno,Mizuno Wave Horizon,Road,,4.4,121
+Adidas,Adidas Cosmic 2.0 SL,Road,90,4.5,715
+Under Armour,Under Armour Freedom Assert 6,Road,90,4.5,67
+Mizuno,Mizuno Wave Horizon,Road,190,4.4,121
 Asics,Asics Gel Foundation 12,Road,150,4.5,506
 Asics,Asics Noosa FF,Road,170,4.2,297
 Vibram FiveFingers,Vibram FiveFingers V-Run,Road,150,4.3,377
-Under Armour,Under Armour Horizon RTT,Road,140,4.5,106
+Under Armour,Under Armour Horizon RTT,Trail,140,4.5,106
 New Balance,New Balance Cypher Run,Road,110,4.4,85
-Adidas,Adidas Response Boost Trail,Road,,4.3,52
+Adidas,Adidas Response Boost Trail,Trail,140,4.3,52
 Reebok,Reebok Speedlux 3.0,Road,70,4.5,112
 New Balance,New Balance Fresh Foam Cruz,Road,100,4.4,1277
 Nike,Nike Free RN 2017,Road,120,4.3,4801
-Salomon,Salomon Speedcross 4 CS,Road,180,4.2,1541
+Salomon,Salomon Speedcross 4 CS,Trail,180,4.2,1541
 Nike,Nike Lunar Skyelux,Road,120,4.5,1179
 Under Armour,Under Armour Micro G Speed Swift 2,Road,90,4.5,259
-Altra,Altra Lone Peak 3.5,Road,150,4.3,315
+Altra,Altra Lone Peak 3.5,Trail,150,4.3,315
 Adidas,Adidas Adizero Tempo 9,Road,150,4.2,218
-Salomon,Salomon XA Pro 3D GTX,Road,190,4.3,3941
-Inov-8,Inov-8 Terraclaw 250,Road,160,4.4,259
-Saucony,Saucony Excursion TR 9,Road,,4.5,668
-New Balance,New Balance Minimus 10 v1,Road,,4.3,197
-Puma,Puma Carson 2 X ,Road,,4.3,63
+Salomon,Salomon XA Pro 3D GTX,Trail,190,4.3,3941
+Inov-8,Inov-8 Terraclaw 250,Trail,160,4.4,259
+Saucony,Saucony Excursion TR 9,Trail,90,4.5,668
+New Balance,New Balance Minimus 10 v1,Trail,140,4.3,197
+Puma,Puma Carson 2 X ,Road,80,4.3,63
 Hoka One One,Hoka One One Clifton 5,Road,160,4.3,727
 Asics,Asics Comutora,Road,90,4.5,122
 Saucony,Saucony Triumph ISO 5,Road,190,4.7,14
 Brooks,Brooks Asteria,Road,120,4.3,60
-Skechers,Skechers Synergy,Road,,4.5,3283
-Zoot,Zoot Ultra Kiawe 2.0,Road,,4.6,21
+Skechers,Skechers Synergy,Road,90,4.5,3283
+Zoot,Zoot Ultra Kiawe 2.0,Road,140,4.6,21
 Nike,Nike Free RN Commuter 2017,Road,140,4.3,572
 Saucony,Saucony Breakthru 3,Road,120,4.2,362
 Adidas,Adidas Solar Drive,Road,150,4.3,192
 Puma,Puma Ignite Mesh,Road,120,4.5,266
 On,On Cloud,Road,150,4.4,1084
-Salomon,Salomon S-Lab XA Amphib,Road,220,4.4,44
+Salomon,Salomon S-Lab XA Amphib,Trail,220,4.4,44
 Asics,Asics Gel Flux 3,Road,120,4.4,634
 On,On Cloudace,Road,240,4.1,107
 Topo Athletic,Topo Athletic Ultrafly,Road,150,4.3,57
 Saucony,Saucony Omni 15,Road,160,4.4,489
-Altra,Altra One 2.5,Road,,4.3,621
-Brooks,Brooks Anthem,Road,,4.5,304
-New Balance,New Balance Fresh Foam Hierro v3,Road,170,4.2,101
+Altra,Altra One 2.5,Road,120,4.3,621
+Brooks,Brooks Anthem,Road,110,4.5,304
+New Balance,New Balance Fresh Foam Hierro v3,Trail,170,4.2,101
 Altra,Altra Solstice,Road,110,4.3,226
-Altra,Altra Lone Peak 3.5 Mid Mesh,Road,,4.2,146
+Altra,Altra Lone Peak 3.5 Mid Mesh,Trail,160,4.2,146
 Asics,Asics Gel Contend 4,Road,90,4.5,3227
 Nike,Nike Air Zoom Pegasus 35 Shield,Road,160,4.1,587
 Mizuno,Mizuno Wave Rider 19,Road,150,4.3,1893
 Nike,Nike LunarGlide 8,Road,150,4.4,420
-Brooks,Brooks Mazama,Road,170,4.2,149
+Brooks,Brooks Mazama,Trail,170,4.2,149
 Adidas,Adidas Mana Bounce 2,Road,100,4.5,278
-New Balance,New Balance Vazee Rush,Road,,4.5,305
+New Balance,New Balance Vazee Rush,Road,110,4.5,305
 Adidas,Adidas Adizero Adios Boost 3.0,Road,170,4.3,386
 Adidas,Adidas Adizero Prime LTD,Road,240,4.3,122
 Puma,Puma Ignite Ultimate,Road,150,4.4,119
 Puma,Puma Ignite PWRWARM,Road,140,4.4,43
 New Balance,New Balance Fresh Foam Zante v3,Road,120,4.2,396
-Altra,Altra Lone Peak 3.0 NeoShell Low,Road,,4,90
-Salomon,Salomon XA Pro 3D M+,Road,,4.4,1870
+Altra,Altra Lone Peak 3.0 NeoShell Low,Trail,180,4,90
+Salomon,Salomon XA Pro 3D M+,Trail,160,4.4,1870
 New Balance,New Balance Fresh Foam Kaymin,Road,90,4.4,339
-Scott,Scott Kinabalu Supertrac,Road,180,4.3,155
+Scott,Scott Kinabalu Supertrac,Trail,180,4.3,155
 Under Armour,Under Armour Charged Bandit 2,Road,120,4.3,898
 Nike,Nike Renew Rival,Road,110,4.4,56
 Puma,Puma Ignite v2,Road,120,4.3,126
 Asics,Asics Gel Pursue 3,Road,180,4.7,28
-Skechers,Skechers GOmeb Speed 3,Road,,4.4,64
-Asics,Asics DynaFlyte 3 Sound,Road,,4.9,16
+Skechers,Skechers GOmeb Speed 3,Road,150,4.4,64
+Asics,Asics DynaFlyte 3 Sound,Road,160,4.9,16
 Nike,Nike Air Zoom Structure 20,Road,150,4.3,94
-361 Degrees,361 Degrees Chaser 2,Road,,4.8,6
+361 Degrees,361 Degrees Chaser 2,Road,120,4.8,6
 Mizuno,Mizuno Wave Catalyst 2,Road,140,4.4,179
 Hoka One One,Hoka One One Arahi,Road,160,4.2,309
-On,On Cloudventure,Road,,4.3,64
+On,On Cloudventure,Trail,190,4.3,64
 Salomon,Salomon Sense ProPulse,Road,180,4.4,59
-Salomon,Salomon XA Elevate,Road,160,4.3,93
-Salomon,Salomon Wings Flyte 2,Road,150,4.3,161
-La Sportiva,La Sportiva Bushido,Road,150,4.3,313
-Hoka One One,Hoka One One Challenger 5 ATR,Road,160,4.2,33
-Reebok,Reebok Runner 2.0 MT,Road,,4.4,137
-On,On Cloudster,Road,,4.4,96
+Salomon,Salomon XA Elevate,Trail,160,4.3,93
+Salomon,Salomon Wings Flyte 2,Trail,150,4.3,161
+La Sportiva,La Sportiva Bushido,Trail,150,4.3,313
+Hoka One One,Hoka One One Challenger 5 ATR,Trail,160,4.2,33
+Reebok,Reebok Runner 2.0 MT,Road,80,4.4,137
+On,On Cloudster,Road,160,4.4,96
 Nike,Nike LunarGlide 9,Road,150,4.2,190
 On,On Cloudrush,Road,160,4.3,541
 Asics,Asics GT 1000 5,Road,120,4.3,2178
-Nike,Nike Air Max Dynasty 2,Road,,4.4,289
+Nike,Nike Air Max Dynasty 2,Road,110,4.4,289
 Nike,Nike Free RN Distance,Road,150,4.3,3135
-New Balance,New Balance Fresh Foam Hierro,Road,,4.3,100
-New Balance,New Balance Vazee Pace,Road,,4.3,175
-Saucony,Saucony Kinvara 7,Road,,4.3,722
-Altra,Altra Timp,Road,160,4.3,180
-New Balance,New Balance 990 v3,Road,,4.5,2056
-New Balance,New Balance 1500 v3,Road,,4.2,203
+New Balance,New Balance Fresh Foam Hierro,Trail,140,4.3,100
+New Balance,New Balance Vazee Pace,Road,140,4.3,175
+Saucony,Saucony Kinvara 7,Road,140,4.3,722
+Altra,Altra Timp,Trail,160,4.3,180
+New Balance,New Balance 990 v3,Road,190,4.5,2056
+New Balance,New Balance 1500 v3,Road,140,4.2,203
 Brooks,Brooks Launch 6,Road,120,4.4,26
-New Balance,New Balance Fresh Foam Zante v2,Road,,4.2,292
-Asics,Asics Gel Scram 3,Road,,4.4,700
-New Balance,New Balance 860 v9,Road,,4.6,7
-On,On Cloudventure Waterproof,Road,,4.3,68
-Asics,Asics Gel Kenun MX SP,Road,,4.4,84
-Adidas,Adidas Response Trail,Road,170,4.4,131
+New Balance,New Balance Fresh Foam Zante v2,Road,120,4.2,292
+Asics,Asics Gel Scram 3,Trail,90,4.4,700
+New Balance,New Balance 860 v9,Road,150,4.6,7
+On,On Cloudventure Waterproof,Trail,210,4.3,68
+Asics,Asics Gel Kenun MX SP,Road,140,4.4,84
+Adidas,Adidas Response Trail,Trail,170,4.4,131
 Nike,Nike Free 5.0,Road,140,4.3,4057
 Saucony,Saucony Freedom ISO,Road,190,4.2,302
-Saucony,Saucony Kineta Relay,Road,,4.4,1453
+Saucony,Saucony Kineta Relay,Road,90,4.4,1453
 Under Armour,Under Armour Drift,Road,90,4.4,81
 Under Armour,Under Armour Thrill 2,Road,80,4.4,179
 Asics,Asics Gel Contend 3,Road,80,4.4,3129
 Asics,Asics Gel Cumulus 20,Road,150,4.1,1073
-Nike,Nike Tri Fusion,Road,,4.4,125
+Nike,Nike Tri Fusion,Road,110,4.4,125
 Asics,Asics Gel DS Trainer 22,Road,150,4.2,171
-La Sportiva,La Sportiva Wildcat 2.0 GTX,Road,,4.5,44
+La Sportiva,La Sportiva Wildcat 2.0 GTX,Trail,190,4.5,44
 Adidas,Adidas AlphaBounce,Road,120,4.3,1101
-Asics,Asics Gel Excite 3,Road,,4.4,881
-Hoka One One,Hoka One One Evo Mafate,Road,210,4.6,9
+Asics,Asics Gel Excite 3,Road,90,4.4,881
+Hoka One One,Hoka One One Evo Mafate,Trail,210,4.6,9
 Inov-8,Inov-8 Parkclaw 275,Road,160,4.1,47
-Altra,Altra King MT 1.5,Road,170,4.3,67
+Altra,Altra King MT 1.5,Trail,170,4.3,67
 New Balance,New Balance Vazee Pace v2,Road,140,4.3,266
-Saucony,Saucony Peregrine 7,Road,150,4.2,233
+Saucony,Saucony Peregrine 7,Trail,150,4.2,233
 Nike,Nike Air Zoom Structure 19,Road,150,4.3,527
 New Balance,New Balance Fresh Foam Vongo v2,Road,170,4.5,73
 Asics,Asics Gel Kayano 22,Road,190,4.3,5017
-Salomon,Salomon Wings Pro 2,Road,170,4.3,220
-Inov-8,Inov-8 Race Ultra 290,Road,160,4.2,109
-Merrell,Merrell Vapor Glove 2,Road,110,4.3,2605
-Under Armour,Under Armour Micro G Assert 7,Road,,4.4,781
+Salomon,Salomon Wings Pro 2,Trail,170,4.3,220
+Inov-8,Inov-8 Race Ultra 290,Trail,160,4.2,109
+Merrell,Merrell Vapor Glove 2,Trail,110,4.3,2605
+Under Armour,Under Armour Micro G Assert 7,Road,90,4.4,781
 New Balance,New Balance FuelCore Sonic,Road,140,4.4,30
 Newton,Newton Distance 7,Road,190,4.4,29
-Inov-8,Inov-8 X-Talon 225,Road,140,4.3,71
+Inov-8,Inov-8 X-Talon 225,Trail,140,4.3,71
 Reebok,Reebok Floatride Run,Road,180,4.4,237
-Inov-8,Inov-8 X-Talon 212,Road,150,4.2,482
+Inov-8,Inov-8 X-Talon 212,Trail,150,4.2,482
 Mizuno,Mizuno Wave Enigma 5,Road,180,4.3,446
-Brooks,Brooks Neuro 3,Road,,4.6,23
+Brooks,Brooks Neuro 3,Road,150,4.6,23
 Saucony,Saucony Omni ISO,Road,160,4.2,183
-Adidas,Adidas Kanadia 7 GTX,Road,150,4.4,605
-Salomon,Salomon XA Elevate GTX,Road,190,4.4,54
-Nike,Nike Lunar Apparent,Road,,4.4,81
+Adidas,Adidas Kanadia 7 GTX,Trail,150,4.4,605
+Salomon,Salomon XA Elevate GTX,Trail,190,4.4,54
+Nike,Nike Lunar Apparent,Road,110,4.4,81
 Asics,Asics Gel Flux 4,Road,120,4.5,226
-Nike,Nike Air Zoom Structure 21 Shield,Road,,4.6,16
+Nike,Nike Air Zoom Structure 21 Shield,Road,170,4.6,16
 Hoka One One,Hoka One One Clifton 4,Road,160,4.3,1208
 Asics,Asics Gel Kenun,Road,160,4.2,279
-Adidas,Adidas Duramo 6,Road,,4.3,1122
-Hoka One One,Hoka One One Bondi Leather,Road,,4.4,126
+Adidas,Adidas Duramo 6,Road,80,4.3,1122
+Hoka One One,Hoka One One Bondi Leather,Road,190,4.4,126
 Adidas,Adidas Questar TND,Road,110,4.4,396
 Asics,Asics Gel Kayano 24 Lite-Show,Road,210,4.4,943
 Nike,Nike Flex RN 2016,Road,100,4.3,2979
-Merrell,Merrell All Out Crush Tough Mudder,Road,,4.3,80
+Merrell,Merrell All Out Crush Tough Mudder,Trail,120,4.3,80
 Nike,Nike Free RN Flyknit,Road,160,4.3,7923
 Under Armour,Under Armour Charged Rebel,Road,100,4.4,174
 Asics,Asics Metarun,Road,300,4.2,125
-Altra,Altra Lone Peak 3.0 NeoShell Mid,Road,,4.3,191
+Altra,Altra Lone Peak 3.0 NeoShell Mid,Trail,190,4.3,191
 Brooks,Brooks Revel 2,Road,120,4.4,469
 Vibram FiveFingers,Vibram FiveFingers EL-X,Road,100,4.2,906
 Asics,Asics Gel Quantum 360,Road,210,4.3,1793
-Reebok,Reebok All Terrain Craze,Road,100,4.4,210
-Asics,Asics Endurant,Road,,4.4,213
+Reebok,Reebok All Terrain Craze,Trail,100,4.4,210
+Asics,Asics Endurant,Trail,80,4.4,213
 Reebok,Reebok Harmony Road 2,Road,150,4.3,42
-New Balance,New Balance 840 v3,Road,,4.4,565
+New Balance,New Balance 840 v3,Road,150,4.4,565
 Saucony,Saucony Hurricane ISO 4,Road,200,4.1,66
 Altra,Altra Provision 3.0,Road,150,4.2,824
 Mizuno,Mizuno Wave Shadow,Road,140,4.5,41
-Adidas,Adidas Terrex CMTK GTX,Road,140,4.4,137
+Adidas,Adidas Terrex CMTK GTX,Trail,140,4.4,137
 Adidas,Adidas Galaxy 3,Road,80,4.4,604
 Adidas,Adidas Energy Cloud,Road,80,4.3,1342
 New Balance,New Balance FuelCell Impulse,Road,150,4.3,40
-Inov-8,Inov-8 X-Claw 275,Road,150,4.4,42
-Under Armour,Under Armour SpeedForm Gemini 3 Graphic,Road,,4.2,251
+Inov-8,Inov-8 X-Claw 275,Trail,150,4.4,42
+Under Armour,Under Armour SpeedForm Gemini 3 Graphic,Road,160,4.2,251
 Adidas,Adidas Supernova GTX,Road,180,4.4,110
-Mizuno,Mizuno Wave Kazan,Road,,4.3,403
+Mizuno,Mizuno Wave Kazan,Trail,150,4.3,403
 Salomon,Salomon Sonic Pro 2,Road,220,4.4,28
 Asics,Asics Gel Kayano 25 Lite-Show,Road,210,4.6,29
-Asics,Asics Gel Quantum 180,Road,,4.4,288
-Salomon,Salomon Ultra Pro,Road,180,4.6,42
-Mizuno,Mizuno Wave Paradox 2,Road,,4.3,207
-New Balance,New Balance Summit Unknown,Road,140,4,85
+Asics,Asics Gel Quantum 180,Road,160,4.4,288
+Salomon,Salomon Ultra Pro,Trail,180,4.6,42
+Mizuno,Mizuno Wave Paradox 2,Road,170,4.3,207
+New Balance,New Balance Summit Unknown,Trail,140,4,85
 Asics,Asics FuzeX,Road,140,4.3,749
-Hoka One One,Hoka One One Speed Instinct 2,Road,160,4.3,35
-Nike,Nike Zoom Vaporfly 4% Flyknit,Road,,4.6,18
-Altra,Altra Superior 3.5,Road,140,4.3,135
+Hoka One One,Hoka One One Speed Instinct 2,Trail,160,4.3,35
+Nike,Nike Zoom Vaporfly 4% Flyknit,Road,300,4.6,18
+Altra,Altra Superior 3.5,Trail,140,4.3,135
 Nike,Nike Epic React Flyknit,Road,180,4.1,306
 Newton,Newton Kismet II,Road,170,4.1,47
-Adidas,Adidas Element Race,Road,,4.4,203
+Adidas,Adidas Element Race,Road,80,4.4,203
 Asics,Asics GT 2000 5,Road,150,4.1,1417
 Brooks,Brooks Transcend 5,Road,190,4.3,175
 Nike,Nike Zoom Strike,Road,100,4.4,165
 Hoka One One,Hoka One One Clayton 2,Road,180,4.1,118
-Nike,Nike LunarEpic Low Flyknit,Road,,4.2,333
-Salomon,Salomon XA Pro 3D,Road,160,4.4,5053
+Nike,Nike LunarEpic Low Flyknit,Road,190,4.2,333
+Salomon,Salomon XA Pro 3D,Trail,160,4.4,5053
 Nike,Nike Free RN 2018 Shield,Road,140,4.4,204
 Mizuno,Mizuno Synchro MX,Road,150,4.4,310
-Inov-8,Inov-8 X-Talon 230,Road,150,4.2,178
-Adidas,Adidas AlphaBounce AMS,Road,,4.3,582
+Inov-8,Inov-8 X-Talon 230,Trail,150,4.2,178
+Adidas,Adidas AlphaBounce AMS,Road,140,4.3,582
 Saucony,Saucony Hurricane ISO 3,Road,190,4.2,130
-The North Face,The North Face Ultra 110 GTX,Road,,4.1,197
-Salomon,Salomon S-Lab Speed 2,Road,220,4.6,38
-Adidas,Adidas Purebounce+,Road,,4.4,56
+The North Face,The North Face Ultra 110 GTX,Trail,150,4.1,197
+Salomon,Salomon S-Lab Speed 2,Trail,220,4.6,38
+Adidas,Adidas Purebounce+,Road,120,4.4,56
 Saucony,Saucony Triumph ISO 3,Road,180,4.2,576
 Nike,Nike Air Zoom Vomero 13,Road,170,4.3,339
-New Balance,New Balance Fresh Foam Arishi Sport,Road,,4.4,557
-Adidas,Adidas Supernova Trail,Road,170,4.9,21
-Saucony,Saucony Nomad TR,Road,,4.2,188
+New Balance,New Balance Fresh Foam Arishi Sport,Road,90,4.4,557
+Adidas,Adidas Supernova Trail,Trail,170,4.9,21
+Saucony,Saucony Nomad TR,Trail,140,4.2,188
 Vivobarefoot ,Vivobarefoot Stealth II,Road,180,4.1,148
 Nike,Nike LunarSolo,Road,110,4.4,146
 Asics,Asics Gel Torrance,Road,90,4.4,604
-Saucony,Saucony Cohesion 11,Road,,4.4,1035
-Saucony,Saucony Excursion TR 10,Road,,4.4,616
-Puma,Puma Ignite Limitless SR,Road,,4.4,172
+Saucony,Saucony Cohesion 11,Road,80,4.4,1035
+Saucony,Saucony Excursion TR 10,Trail,90,4.4,616
+Puma,Puma Ignite Limitless SR,Road,140,4.4,172
 Vibram FiveFingers,Vibram FiveFingers KSO EVO,Road,110,4.2,2616
-Vibram FiveFingers,Vibram FiveFingers Trek Ascent Insulated,Road,160,4.1,116
-Asics,Asics Gel FujiEndurance,Road,220,4.2,51
+Vibram FiveFingers,Vibram FiveFingers Trek Ascent Insulated,Trail,160,4.1,116
+Asics,Asics Gel FujiEndurance,Trail,220,4.2,51
 On,On Cloudflyer,Road,190,4.2,181
-Asics,Asics 33-FA,Road,,4.3,484
+Asics,Asics 33-FA,Road,140,4.3,484
 Brooks,Brooks Ravenna 8,Road,140,4.2,374
 Saucony,Saucony Freedom ISO 2,Road,190,4.4,72
-Adidas,Adidas Terrex Tracerocker GTX,Road,140,4.4,313
-Altra,Altra Olympus 2.0,Road,180,4.2,294
+Adidas,Adidas Terrex Tracerocker GTX,Trail,140,4.4,313
+Altra,Altra Olympus 2.0,Trail,180,4.2,294
 Nike,Nike LunarEpic Low Flyknit 2,Road,170,4.2,268
-Adidas,Adidas AlphaBounce EM CTD,Road,,4.4,588
-Reebok,Reebok Floatride Run Fast Pro,Road,300,4.6,7
+Adidas,Adidas AlphaBounce EM CTD,Road,150,4.4,588
+Reebok,Reebok Floatride Run Fast Pro,Trail,300,4.6,7
 Saucony,Saucony Omni 16,Road,160,4.1,248
-Nike,Nike Air Max 2016,Road,,4.3,350
-Topo Athletic,Topo Athletic Fli-Lyte 2,Road,,4.5,23
+Nike,Nike Air Max 2016,Road,230,4.3,350
+Topo Athletic,Topo Athletic Fli-Lyte 2,Road,120,4.5,23
 New Balance,New Balance Fresh Foam Arishi,Road,90,4.4,1536
-Zoot,Zoot Ultra Kalani 3.0,Road,,4.1,93
+Zoot,Zoot Ultra Kalani 3.0,Road,150,4.1,93
 Under Armour,Under Armour SpeedForm Slingride Fade,Road,120,4.2,84
 Asics,Asics Gel Kayano 25 SP,Road,190,4.4,475
-Salomon,Salomon S-Lab XA Alpine 2,Road,300,4.5,6
+Salomon,Salomon S-Lab XA Alpine 2,Trail,300,4.5,6
 New Balance,New Balance 1500 T2,Road,160,4.2,34
 New Balance,New Balance 890 v6,Road,150,4.1,122
 Brooks,Brooks Hyperion,Road,160,4.2,255
 Saucony,Saucony Guide 10,Road,150,4.2,544
-La Sportiva,La Sportiva Ultra Raptor GTX,Road,190,4.3,104
+La Sportiva,La Sportiva Ultra Raptor GTX,Trail,190,4.3,104
 Adidas,Adidas Adizero Prime,Road,160,4.2,95
 Saucony,Saucony Hurricane ISO 2,Road,190,4.2,575
-Asics,Asics Gel Quantum 180 2 MX,Road,,4.3,161
+Asics,Asics Gel Quantum 180 2 MX,Road,160,4.3,161
 Altra,Altra Paradigm 3.0,Road,160,4.2,212
 Nike,Nike Free RN Flyknit 2017,Road,150,4.3,9816
 Nike,Nike Free RN,Road,150,4.3,3043
-The North Face,The North Face Ultra Cardiac II,Road,140,4.5,27
-Nike,Nike Air Zoom Wildhorse 4,Road,140,4.2,56
+The North Face,The North Face Ultra Cardiac II,Trail,140,4.5,27
+Nike,Nike Air Zoom Wildhorse 4,Trail,140,4.2,56
 Asics,Asics Gel DS Trainer 23,Road,150,4,124
-Merrell,Merrell Trail Glove 4 Shield,Road,150,4.3,855
+Merrell,Merrell Trail Glove 4 Shield,Trail,150,4.3,855
 Altra,Altra Provision 3.5,Road,150,4.3,973
-Saucony,Saucony Excursion TR 11 GTX,Road,,4.6,23
-Saucony,Saucony Peregrine 8,Road,150,4.1,172
-Asics,Asics Alpine XT,Road,120,4,445
+Saucony,Saucony Excursion TR 11 GTX,Trail,120,4.6,23
+Saucony,Saucony Peregrine 8,Trail,150,4.1,172
+Asics,Asics Alpine XT,Trail,120,4,445
 Adidas,Adidas Energy Bounce 2.0,Road,100,4.3,305
-New Balance,New Balance 840 v4,Road,,4.3,308
-Asics,Asics Gel Fujirado,Road,160,4.3,60
+New Balance,New Balance 840 v4,Road,150,4.3,308
+Asics,Asics Gel Fujirado,Trail,160,4.3,60
 Asics,Asics Gel Quantum 180 2,Road,160,4.3,606
-Salomon,Salomon X-Mission 3 CS,Road,,4.3,351
+Salomon,Salomon X-Mission 3 CS,Trail,160,4.3,351
 Asics,Asics Kanmei,Road,90,4.3,69
 Saucony,Saucony Redeemer ISO,Road,180,4.2,360
-Zoot,Zoot Solana ACR,Road,,4.4,36
-Asics,Asics Gel Kahana 8,Road,,4.3,1050
+Zoot,Zoot Solana ACR,Road,140,4.4,36
+Asics,Asics Gel Kahana 8,Trail,110,4.3,1050
 Brooks,Brooks Beast 16,Road,190,4.3,920
 Saucony,Saucony Ride ISO,Road,150,4.2,103
 Asics,Asics Gel Nimbus 20,Road,190,4.2,2381
-New Balance,New Balance Fresh Foam Kaymin TRL,Road,,4.3,76
-Salomon,Salomon Sense Marin,Road,,4.5,30
+New Balance,New Balance Fresh Foam Kaymin TRL,Trail,90,4.3,76
+Salomon,Salomon Sense Marin,Trail,150,4.5,30
 Asics,Asics Patriot 8,Road,120,4.3,1095
 Under Armour,Under Armour Micro G Speed Swift,Road,100,4.3,226
 Nike,Nike Odyssey React,Road,150,4.1,235
 Adidas,Adidas Energy Cloud 2,Road,80,4.3,865
-Asics,Asics HyperGel Kenzen,Road,,4.6,14
-La Sportiva,La Sportiva Unika,Road,,4.6,8
-Nike,Nike Dart 12,Road,,4.3,1383
+Asics,Asics HyperGel Kenzen,Road,160,4.6,14
+La Sportiva,La Sportiva Unika,Trail,230,4.6,8
+Nike,Nike Dart 12,Road,80,4.3,1383
 Adidas,Adidas Adizero Adios 4,Road,170,4.6,7
-Salomon,Salomon X-Scream 3D,Road,150,4.2,400
-Adidas,Adidas Terrex Agravic GTX,Road,180,4.3,437
-Saucony,Saucony Caliber TR,Road,,4.3,118
-Nike,Nike Air Max 2015,Road,,4.4,400
+Salomon,Salomon X-Scream 3D,Trail,150,4.2,400
+Adidas,Adidas Terrex Agravic GTX,Trail,180,4.3,437
+Saucony,Saucony Caliber TR,Trail,100,4.3,118
+Nike,Nike Air Max 2015,Road,230,4.4,400
 Puma,Puma Speed 500 Ignite,Road,150,4.4,21
-Asics,Asics Gel Moya,Road,,4.3,50
+Asics,Asics Gel Moya,Road,90,4.3,50
 Asics,Asics GT 1000 6,Road,110,4.2,1678
-Nike,Nike Revolution 4 FlyEase,Road,,4.3,66
+Nike,Nike Revolution 4 FlyEase,Road,80,4.3,66
 Asics,Asics Patriot 10,Road,80,4.3,214
-Adidas,Adidas Rockadia Trail,Road,80,4.3,1797
+Adidas,Adidas Rockadia Trail,Trail,80,4.3,1797
 Under Armour,Under Armour SpeedForm Europa,Road,160,4.3,186
 Nike,Nike Air Max 2017,Road,230,4.5,1228
-Nike,Nike Air Max Tailwind 8,Road,,4.3,1015
-Vibram FiveFingers,Vibram FiveFingers Trek Ascent,Road,150,4.2,318
-Nike,Nike Dart 11,Road,,4.3,526
-La Sportiva,La Sportiva Crossover 2.0 GTX,Road,,4.4,29
+Nike,Nike Air Max Tailwind 8,Road,140,4.3,1015
+Vibram FiveFingers,Vibram FiveFingers Trek Ascent,Trail,150,4.2,318
+Nike,Nike Dart 11,Road,80,4.3,526
+La Sportiva,La Sportiva Crossover 2.0 GTX,Trail,210,4.4,29
 Saucony,Saucony Triumph ISO 4,Road,190,4,393
-Asics,Asics Gel Scram 4,Road,,4.3,135
-Nike,Nike Air Zoom All Out Flyknit,Road,,4.3,89
+Asics,Asics Gel Scram 4,Trail,90,4.3,135
+Nike,Nike Air Zoom All Out Flyknit,Road,240,4.3,89
 Hoka One One,Hoka One One Mach,Road,170,4,78
-Inov-8,Inov-8 Mudclaw G 260,Road,,4.6,7
+Inov-8,Inov-8 Mudclaw G 260,Trail,180,4.6,7
 Asics,Asics Noosa FF 2,Road,170,4.3,180
-Reebok,Reebok Print Run 2.0,Road,,4.3,108
-Asics,Asics Gel Sonoma 3,Road,100,4.2,659
-Saucony,Saucony Ride 8 GTX,Road,,4.5,54
+Reebok,Reebok Print Run 2.0,Road,100,4.3,108
+Asics,Asics Gel Sonoma 3,Trail,100,4.2,659
+Saucony,Saucony Ride 8 GTX,Road,170,4.5,54
 Nike,Nike LunarTempo 2,Road,140,4.2,210
-Nike,Nike Air Zoom Terra Kiger 4,Road,150,4.1,18
+Nike,Nike Air Zoom Terra Kiger 4,Trail,150,4.1,18
 Nike,Nike Flex Experience RN 6,Road,80,4.3,1811
-Nike,Nike Air Max Sequent,Road,,4.3,1154
-Saucony,Saucony Cohesion TR 11,Road,,4.5,40
-New Balance,New Balance Vazee Prism,Road,,4.3,138
+Nike,Nike Air Max Sequent,Road,120,4.3,1154
+Saucony,Saucony Cohesion TR 11,Road,80,4.5,40
+New Balance,New Balance Vazee Prism,Road,120,4.3,138
 Reebok,Reebok Floatride Run Fast,Road,170,4.6,9
 Under Armour,Under Armour Threadborne Blur,Road,120,4.3,68
-Asics,Asics GT 2000 6 Trail,Road,150,3.9,229
+Asics,Asics GT 2000 6 Trail,Trail,150,3.9,229
 Under Armour,Under Armour SpeedForm Velociti,Road,140,4.3,82
 Asics,Asics Gel Quantum Infinity,Road,220,4.4,5
-La Sportiva,La Sportiva Tempesta GTX,Road,200,4.4,7
+La Sportiva,La Sportiva Tempesta GTX,Trail,200,4.4,7
 Asics,Asics Gel Quantum 90,Road,110,4.5,31
 Mizuno,Mizuno Wave Creation 19,Road,210,4.3,162
 Asics,Asics NitroFuze,Road,110,4.5,33
 Nike,Nike Air VaporMax Flyknit 2,Road,230,4.3,477
-Reebok,Reebok Fusium Run,Road,,4.5,35
+Reebok,Reebok Fusium Run,Road,110,4.5,35
 Adidas,Adidas Aerobounce 2 ,Road,120,4.3,87
-Merrell,Merrell Trail Glove 4 Knit,Road,160,4.3,345
+Merrell,Merrell Trail Glove 4 Knit,Trail,160,4.3,345
 Asics,Asics GT 2000 5 Lite-Show,Road,160,4.3,115
-Nike,Nike Air Max Tailwind 7,Road,,4.3,168
-Hoka One One,Hoka One One Stinson ATR 4,Road,190,4,168
-New Balance,New Balance Fresh Foam 1080 v7,Road,,4.4,203
+Nike,Nike Air Max Tailwind 7,Road,140,4.3,168
+Hoka One One,Hoka One One Stinson ATR 4,Trail,190,4,168
+New Balance,New Balance Fresh Foam 1080 v7,Road,180,4.4,203
 Asics,Asics Gel Fortitude 8,Road,150,4.6,36
-Newton,Newton Motion 7,Road,,4.2,29
+Newton,Newton Motion 7,Road,210,4.2,29
 Asics,Asics FuzeX Lyte,Road,110,4.5,629
 Nike,Nike Free RN CMTR,Road,140,4.3,343
-Altra,Altra One v3,Road,,4.4,402
+Altra,Altra One v3,Road,120,4.4,402
 Saucony,Saucony Breakthru 4,Road,120,4.4,41
 New Balance,New Balance FuelCell,Road,190,4.2,162
 Asics,Asics Gel Kayano 23,Road,190,4.1,3460
@@ -635,188 +635,188 @@ Asics,Asics Tartherzeal 6,Road,170,4.5,6
 Merrell,Merrell Bare Access Flex,Road,110,3.9,738
 Zoot,Zoot Solana 2,Road,120,4.2,30
 Saucony,Saucony Ride 9,Road,150,4.1,843
-Puma,Puma Blur,Road,,4.3,185
-Salomon,Salomon Sense Pro 3,Road,160,4.3,19
+Puma,Puma Blur,Road,90,4.3,185
+Salomon,Salomon Sense Pro 3,Trail,160,4.3,19
 Nike,Nike Air Max Sequent 2,Road,120,4.3,1393
-Under Armour,Under Armour Micro G Fuel,Road,,4.3,112
-New Balance,New Balance 940 v3,Road,,4.3,173
-Merrell,Merrell Bare Access Flex Knit,Road,160,4.3,313
+Under Armour,Under Armour Micro G Fuel,Road,90,4.3,112
+New Balance,New Balance 940 v3,Road,150,4.3,173
+Merrell,Merrell Bare Access Flex Knit,Trail,160,4.3,313
 Asics,Asics Gel 451,Road,140,4.6,9
-Hoka One One,Hoka One One Speed Instinct,Road,,4,80
-Under Armour,Under Armour Toccoa,Road,,4.3,611
-New Balance,New Balance FuelCore Coast v3,Road,,4.3,214
+Hoka One One,Hoka One One Speed Instinct,Trail,160,4,80
+Under Armour,Under Armour Toccoa,Trail,90,4.3,611
+New Balance,New Balance FuelCore Coast v3,Road,80,4.3,214
 New Balance,New Balance FuelCore Rush v3,Road,120,4.3,154
 Under Armour,Under Armour Fuse FST,Road,90,4.3,141
 New Balance,New Balance Fresh Foam Lazr Hyposkin,Road,120,4.1,42
-Vivobarefoot ,Vivobarefoot Ultra 3,Road,110,4,61
+Vivobarefoot ,Vivobarefoot Ultra 3,Trail,110,4,61
 Asics,Asics FuzeTora,Road,110,4.5,21
-Inov-8,Inov-8 Roclite 325 GTX,Road,180,4.3,27
-Brooks,Brooks Caldera 3,Road,,4.6,8
-Hoka One One,Hoka One One Challenger 3 ATR,Road,160,4,212
+Inov-8,Inov-8 Roclite 325 GTX,Trail,180,4.3,27
+Brooks,Brooks Caldera 3,Trail,170,4.6,8
+Hoka One One,Hoka One One Challenger 3 ATR,Trail,160,4,212
 Nike,Nike Air Max Advantage,Road,100,4.3,96
-Adidas,Adidas Vigor Bounce,Road,,4.2,991
+Adidas,Adidas Vigor Bounce,Trail,100,4.2,991
 Nike,Nike Zoom Streak 6,Road,140,4,43
 Inov-8,Inov-8 Roadclaw 275,Road,150,4.1,100
-Topo Athletic,Topo Athletic ST-2,Road,,4.1,96
+Topo Athletic,Topo Athletic ST-2,Road,110,4.1,96
 Under Armour,Under Armour SpeedForm Gemini 3,Road,160,4,195
-361 Degrees,361 Degrees Strata 2,Road,,4.5,8
-Skechers,Skechers GOrun MaxTrail 5 Ultra,Road,,4.5,8
+361 Degrees,361 Degrees Strata 2,Road,180,4.5,8
+Skechers,Skechers GOrun MaxTrail 5 Ultra,Trail,150,4.5,8
 Reebok,Reebok ZPrint 3D,Road,110,4.3,135
-Vivobarefoot ,Vivobarefoot Ultra 3 Bloom,Road,100,3.9,56
+Vivobarefoot ,Vivobarefoot Ultra 3 Bloom,Trail,100,3.9,56
 Zoot,Zoot Carlsbad,Road,150,4.7,14
-Jordan,Jordan Grind,Road,,4.5,28
+Jordan,Jordan Grind,Road,140,4.5,28
 Altra,Altra Duo,Road,160,3.8,151
-Under Armour,Under Armour HOVR Phantom Connected,Road,,4.4,177
-Reebok,Reebok Runner,Road,,4.2,156
-New Balance,New Balance Vazee Summit,Road,,4.4,15
+Under Armour,Under Armour HOVR Phantom Connected,Road,170,4.4,177
+Reebok,Reebok Runner,Road,80,4.2,156
+New Balance,New Balance Vazee Summit,Trail,120,4.4,15
 Brooks,Brooks Bedlam,Road,180,4.2,141
 Nike,Nike Flex Experience RN 7,Road,80,4.2,1272
-Merrell,Merrell Bare Access Flex E-Mesh,Road,140,4.2,52
-Altra,Altra Olympus 2.5,Road,180,3.9,120
-Altra,Altra Torin IQ,Road,,3.8,57
-New Balance,New Balance 680 v4,Road,,4.2,128
+Merrell,Merrell Bare Access Flex E-Mesh,Trail,140,4.2,52
+Altra,Altra Olympus 2.5,Trail,180,3.9,120
+Altra,Altra Torin IQ,Road,240,3.8,57
+New Balance,New Balance 680 v4,Road,90,4.2,128
 Nike,Nike Odyssey React Shield,Road,160,4.2,177
-Salomon,Salomon Sense Pulse,Road,,4.2,62
-Asics,Asics Gel Kenun Lyte,Road,,4.2,209
-Saucony,Saucony Excursion TR 11,Road,,4.2,272
-The North Face,The North Face One Trail,Road,,4.6,20
+Salomon,Salomon Sense Pulse,Road,160,4.2,62
+Asics,Asics Gel Kenun Lyte,Road,100,4.2,209
+Saucony,Saucony Excursion TR 11,Trail,90,4.2,272
+The North Face,The North Face One Trail,Trail,150,4.6,20
 Hoka One One,Hoka One One Elevon,Road,190,4.2,982
-Altra,Altra Superior 3.0,Road,,4.2,276
+Altra,Altra Superior 3.0,Trail,140,4.2,276
 Adidas,Adidas Pureboost RBL,Road,190,4.7,16
 Nike,Nike Air VaporMax Flyknit,Road,230,4,124
 Inov-8,Inov-8 Roadclaw 275 v2,Road,150,4.4,23
-Asics,Asics GT 2000 5 Trail,Road,,4.2,943
+Asics,Asics GT 2000 5 Trail,Trail,150,4.2,943
 Newton,Newton Gravity 6,Road,210,4.2,39
 Asics,Asics Gel Cumulus 18,Road,150,4.1,2609
-New Balance,New Balance 510 v3,Road,,3.9,2121
+New Balance,New Balance 510 v3,Trail,90,3.9,2121
 Under Armour,Under Armour Charged Lightning,Road,110,4.2,197
 Asics,Asics GT 3000 5,Road,160,3.8,35
-Hoka One One,Hoka One One Napali,Road,,4.6,7
+Hoka One One,Hoka One One Napali,Road,140,4.6,7
 Asics,Asics FuzeTora Twist,Road,110,4.7,9
 Asics,Asics Gel Flux 5,Road,100,4.2,424
 Nike,Nike Air Zoom Streak LT 4,Road,110,4.5,6
 Under Armour,Under Armour Charged Bandit 4,Road,100,4.2,93
-La Sportiva,La Sportiva Helios 2.0,Road,150,4.2,45
+La Sportiva,La Sportiva Helios 2.0,Trail,150,4.2,45
 Asics,Asics GT 1000 7,Road,110,4.3,226
 Skechers,Skechers GOrun Forza 3,Road,140,3.9,23
 Inov-8,Inov-8 RoadTalon 240,Road,140,4,26
-Saucony,Saucony Xodus ISO 2,Road,160,4.2,64
+Saucony,Saucony Xodus ISO 2,Trail,160,4.2,64
 Puma,Puma Carson 2  ,Road,80,4.5,1334
-On,On Cloud Waterproof,Road,,4.5,20
-Puma,Puma Speed Ignite Netfit,Road,,4.3,6
+On,On Cloud Waterproof,Road,180,4.5,20
+Puma,Puma Speed Ignite Netfit,Road,170,4.3,6
 Adidas,Adidas Vengeful,Road,140,4.1,122
 Vivobarefoot ,Vivobarefoot Primus Lite,Road,170,4.2,39
-The North Face,The North Face Ultra Endurance,Road,150,4.4,16
+The North Face,The North Face Ultra Endurance,Trail,150,4.4,16
 New Balance,New Balance 1260 v7,Road,190,4.2,137
-Merrell,Merrell All Out Crush 2,Road,120,4.1,34
+Merrell,Merrell All Out Crush 2,Trail,120,4.1,34
 Nike,Nike Air Zoom Span 2,Road,120,4.4,13
-New Balance,New Balance FuelCore Coast v4,Road,,4.2,105
-New Balance,New Balance FuelCore Nitrel Trail,Road,90,4.2,186
+New Balance,New Balance FuelCore Coast v4,Road,80,4.2,105
+New Balance,New Balance FuelCore Nitrel Trail,Trail,90,4.2,186
 Nike,Nike Air VaporMax Run Utility,Road,230,4.2,38
-Inov-8,Inov-8 Trail Talon 250,Road,180,4.2,32
-Brooks,Brooks Mazama 2,Road,170,3.8,48
-Brooks,Brooks Cascadia 13 GTX,Road,190,4.4,32
+Inov-8,Inov-8 Trail Talon 250,Trail,180,4.2,32
+Brooks,Brooks Mazama 2,Trail,170,3.8,48
+Brooks,Brooks Cascadia 13 GTX,Trail,190,4.4,32
 Reebok,Reebok Express Runner,Road,70,4.4,40
-Brooks,Brooks Cascadia 13,Road,160,4.2,337
-Salomon,Salomon Speedspike CS,Road,210,4.6,13
+Brooks,Brooks Cascadia 13,Trail,160,4.2,337
+Salomon,Salomon Speedspike CS,Trail,210,4.6,13
 Nike,Nike Flex RN 2018,Road,110,4.2,158
 Puma,Puma Flare Mesh,Road,90,4.4,38
-Under Armour,Under Armour SpeedForm Slingride,Road,,4.5,203
+Under Armour,Under Armour SpeedForm Slingride,Road,150,4.5,203
 Mizuno,Mizuno Wave Prophecy 7,Road,290,4.1,169
 Saucony,Saucony Type A8,Road,120,4.2,20
-Under Armour,Under Armour Highlight Delta,Road,,4.4,22
+Under Armour,Under Armour Highlight Delta,Road,160,4.4,22
 Under Armour,Under Armour Drift 2,Road,100,4.1,227
 Saucony,Saucony Zealot ISO 2,Road,160,3.9,265
-New Balance,New Balance 680 v3,Road,,4.1,257
+New Balance,New Balance 680 v3,Road,90,4.1,257
 Brooks,Brooks Neuro 2,Road,150,4.3,78
-Under Armour,Under Armour Speedform Fortis 2,Road,,4.1,93
+Under Armour,Under Armour Speedform Fortis 2,Road,120,4.1,93
 Under Armour,Under Armour Charged Bandit 4 Team,Road,100,4.4,42
-Altra,Altra Instinct 4.0,Road,,3.9,137
+Altra,Altra Instinct 4.0,Road,140,3.9,137
 Nike,Nike Zoom All Out Low 2,Road,170,4.1,166
-The North Face,The North Face Flight RKT,Road,,4.2,16
+The North Face,The North Face Flight RKT,Trail,180,4.2,16
 Hoka One One,Hoka One One Gaviota 2,Road,180,4.2,16
 Reebok,Reebok Ahary Runner,Road,80,4.1,132
 361 Degrees,361 Degrees Meraki,Road,160,4.4,7
-Saucony,Saucony Koa ST,Road,160,4.1,45
+Saucony,Saucony Koa ST,Trail,160,4.1,45
 New Balance,New Balance Fresh Foam Cruz v2 Nubuck,Road,110,4.1,201
-Under Armour,Under Armour Micro G Velocity,Road,,4.1,137
-Brooks,Brooks PureGrit 7,Road,150,4.1,17
-Inov-8,Inov-8 Roclite 320 GTX,Road,190,4.9,7
-Reebok,Reebok Instalite Lux,Road,,4.9,7
-Salomon,Salomon S-Lab Sense 7,Road,220,4.9,7
-Puma,Puma Cell Regulate Nature Tech,Road,,4.3,38
+Under Armour,Under Armour Micro G Velocity,Road,110,4.1,137
+Brooks,Brooks PureGrit 7,Trail,150,4.1,17
+Inov-8,Inov-8 Roclite 320 GTX,Trail,190,4.9,7
+Reebok,Reebok Instalite Lux,Road,80,4.9,7
+Salomon,Salomon S-Lab Sense 7,Trail,220,4.9,7
+Puma,Puma Cell Regulate Nature Tech,Road,110,4.3,38
 Brooks,Brooks Dyad 10,Road,160,3.8,119
 Nike,Nike Renew Rival Shield,Road,120,4.6,7
 Puma,Puma Speed 600 Ignite,Road,150,4.2,43
 Reebok,Reebok Fusion Flexweave,Road,150,4.2,261
-Reebok,Reebok Hexaffect Run 2.0,Road,,4.1,90
+Reebok,Reebok Hexaffect Run 2.0,Road,90,4.1,90
 New Balance,New Balance FuelCore Sonic v2,Road,140,4.6,23
 Asics,Asics Gel Kenun MX,Road,140,4.1,270
 Asics,Asics Gel Cumulus 19,Road,150,4.2,1283
-Topo Athletic,Topo Athletic Ultrafly 2,Road,,4.2,6
+Topo Athletic,Topo Athletic Ultrafly 2,Road,150,4.2,6
 Asics,Asics Gel Kenun Lyte MX,Road,100,4.6,9
-Merrell,Merrell Trail Crusher,Road,100,4.1,121
+Merrell,Merrell Trail Crusher,Trail,100,4.1,121
 Altra,Altra Instinct 4.5,Road,140,3.9,29
-New Balance,New Balance 880 v8,Road,,3.9,8
+New Balance,New Balance 880 v8,Road,150,3.9,8
 Mizuno,Mizuno Wave Shadow 2,Road,140,4.1,17
 Nike,Nike Air Zoom Vomero 14,Road,170,4,15
 New Balance,New Balance Vazee Coast,Road,90,4,157
 Hoka One One,Hoka One One Vanquish 3,Road,210,3.9,155
 Asics,Asics Gel Nimbus 20 SP,Road,190,4.1,964
-Inov-8,Inov-8 Trail Talon 275,Road,150,4.2,13
-New Balance,New Balance Vazee Summit v2,Road,120,3.7,32
+Inov-8,Inov-8 Trail Talon 275,Trail,150,4.2,13
+New Balance,New Balance Vazee Summit v2,Trail,120,3.7,32
 Asics,Asics GT 2000 6,Road,150,3.7,964
 Nike,Nike Air Max Sequent 4,Road,120,4.1,52
-New Balance,New Balance Summit KOM,Road,150,3.9,27
-Under Armour,Under Armour Drift Mineral,Road,,4.3,42
+New Balance,New Balance Summit KOM,Trail,150,3.9,27
+Under Armour,Under Armour Drift Mineral,Road,90,4.3,42
 Asics,Asics Gel Nimbus 20 Lite-Show,Road,210,4.1,942
 New Balance,New Balance Hanzo S,Road,150,4.2,5
 Asics,Asics Gel Quantum 360 Shift,Road,190,4.1,760
-Merrell,Merrell Agility Synthesis Flex,Road,140,4.3,44
+Merrell,Merrell Agility Synthesis Flex,Trail,140,4.3,44
 Mizuno,Mizuno WaveKnit R2,Road,160,4.7,13
-Asics,Asics Gel Quantum 360 Shift MX,Road,,4.1,95
-Asics,Asics FuzeX Rush CM,Road,,4.1,75
+Asics,Asics Gel Quantum 360 Shift MX,Road,190,4.1,95
+Asics,Asics FuzeX Rush CM,Road,150,4.1,75
 Under Armour,Under Armour Charged Escape,Road,110,4.1,197
-Hoka One One,Hoka One One Evo Jawz,Road,160,4.1,23
-New Balance,New Balance 510 v4 ,Road,,3.9,3223
-Adidas,Adidas Pureboost RBL LTD,Road,190,4.5,22
-Salomon,Salomon Sense Link,Road,,4,95
-Zoot,Zoot Diego,Road,,4,23
+Hoka One One,Hoka One One Evo Jawz,Trail,160,4.1,23
+New Balance,New Balance 510 v4 ,Trail,90,3.9,3223
+Adidas,Adidas Pureboost RBL LTD,Trail,190,4.5,22
+Salomon,Salomon Sense Link,Trail,120,4,95
+Zoot,Zoot Diego,Road,180,4,23
 Nike,Nike Air VaporMax Flyknit Utility,Road,270,4.3,36
-New Balance,New Balance 880 v8 GTX,Road,,4.8,8
-Altra,Altra Lone Peak 4.0 Mid RSM,Road,,4,54
-Hoka One One,Hoka One One Challenger 4 ATR,Road,160,3.8,462
-Under Armour,Under Armour Horizon STR,Road,,4.2,38
-New Balance,New Balance Fresh Foam Zante v3 Breathe,Road,,4,201
-Mizuno,Mizuno Wave Daichi 2,Road,160,4.1,36
+New Balance,New Balance 880 v8 GTX,Road,170,4.8,8
+Altra,Altra Lone Peak 4.0 Mid RSM,Trail,190,4,54
+Hoka One One,Hoka One One Challenger 4 ATR,Trail,160,3.8,462
+Under Armour,Under Armour Horizon STR,Trail,110,4.2,38
+New Balance,New Balance Fresh Foam Zante v3 Breathe,Road,120,4,201
+Mizuno,Mizuno Wave Daichi 2,Trail,160,4.1,36
 Mizuno,Mizuno Wave Rider 21 GTX,Road,180,4.5,17
-Asics,Asics Gel FujiAttack 5,Road,140,3.7,89
-Saucony,Saucony Peregrine 8 Ice+,Road,180,4.5,15
-Saucony,Saucony Linchpin,Road,,4,60
-Reebok,Reebok Print Run ULTK,Road,,4.5,24
+Asics,Asics Gel FujiAttack 5,Trail,140,3.7,89
+Saucony,Saucony Peregrine 8 Ice+,Trail,180,4.5,15
+Saucony,Saucony Linchpin,Road,100,4,60
+Reebok,Reebok Print Run ULTK,Road,100,4.5,24
 Reebok,Reebok Print Lite Rush,Road,90,4.5,22
 New Balance,New Balance Vazee Breathe,Road,120,4.2,46
-Adidas,Adidas Terrex CMTK,Road,110,4.2,44
-Puma,Puma Ignite Limitless SR evoKNIT,Road,,4.4,9
-Saucony,Saucony Xodus ISO,Road,,3.7,205
-Under Armour,Under Armour Charged Reactor Run,Road,,4.4,16
+Adidas,Adidas Terrex CMTK,Trail,110,4.2,44
+Puma,Puma Ignite Limitless SR evoKNIT,Road,160,4.4,9
+Saucony,Saucony Xodus ISO,Trail,160,3.7,205
+Under Armour,Under Armour Charged Reactor Run,Road,170,4.4,16
 Brooks,Brooks Addiction 13,Road,160,4,1525
-The North Face,The North Face Ultra Endurance II,Road,150,4.5,8
-Adidas,Adidas Terrex Agravic XT GTX,Road,240,4,18
+The North Face,The North Face Ultra Endurance II,Trail,150,4.5,8
+Adidas,Adidas Terrex Agravic XT GTX,Trail,240,4,18
 Asics,Asics NitroFuze 2,Road,110,4,165
 On,On Cloudcruiser,Road,180,3.7,78
 Nike,Nike Air Max Sequent 3,Road,120,4,780
-Under Armour,Under Armour Highlight Delta 2,Road,,4.2,48
-La Sportiva,La Sportiva Lycan,Road,140,4.3,8
-Nike,Nike Free RN 2017 Shield,Road,,4,26
-Nike,Nike Free RN 2017 Shield,Road,,4,26
+Under Armour,Under Armour Highlight Delta 2,Road,150,4.2,48
+La Sportiva,La Sportiva Lycan,Trail,140,4.3,8
+Nike,Nike Free RN 2017 Shield,Road,140,4,26
+Nike,Nike Free RN 2017 Shield,Road,140,4,26
 New Balance,New Balance Fresh Foam Veniz,Road,90,4.2,43
-Saucony,Saucony Koa TR,Road,140,3.8,34
-Reebok,Reebok Z Fury Tempo,Road,,4,66
+Saucony,Saucony Koa TR,Trail,140,3.8,34
+Reebok,Reebok Z Fury Tempo,Road,110,4,66
 Asics,Asics Gel Kayano 25 OBI,Road,220,4.7,9
-Jordan,Jordan Grind 2,Road,,4.7,9
-Vivobarefoot ,Vivobarefoot Primus Trail FG,Road,180,3.8,37
-Inov-8,Inov-8 X-Talon 260 Ultra,Road,180,4.4,10
+Jordan,Jordan Grind 2,Road,140,4.7,9
+Vivobarefoot ,Vivobarefoot Primus Trail FG,Trail,180,3.8,37
+Inov-8,Inov-8 X-Talon 260 Ultra,Trail,180,4.4,10
 Asics,Asics DynaFlyte 3 Lite-Show,Road,170,4.4,10
 Mizuno,Mizuno Wave Sonic,Road,120,3.8,24
 Asics,Asics Gel Pulse 9,Road,150,4,679
@@ -826,135 +826,135 @@ Asics,Asics FuzeX Rush Adapt,Road,120,3.9,69
 Asics,Asics Amplica,Road,90,3.9,102
 Asics,Asics Gel Exalt 4,Road,110,3.9,315
 Nike,Nike Air Zoom Winflo 5 Run Shield,Road,150,4.4,8
-Reebok,Reebok All Terrain Freedom,Road,,3.9,75
-Merrell,Merrell Agility Fusion Flex,Road,,4.6,8
-La Sportiva,La Sportiva VK,Road,170,4.6,8
-Reebok,Reebok Astroride Strike,Road,,4.6,8
-Inov-8,Inov-8 Roclite 315,Road,170,4.1,9
-Reebok,Reebok Ridgerider Trail 2.0,Road,80,3.9,141
-Reebok,Reebok Run Supreme 3.0 MT,Road,,3.9,80
-Inov-8,Inov-8 Trail Talon 290,Road,150,4.6,7
+Reebok,Reebok All Terrain Freedom,Trail,120,3.9,75
+Merrell,Merrell Agility Fusion Flex,Trail,110,4.6,8
+La Sportiva,La Sportiva VK,Trail,170,4.6,8
+Reebok,Reebok Astroride Strike,Road,90,4.6,8
+Inov-8,Inov-8 Roclite 315,Trail,170,4.1,9
+Reebok,Reebok Ridgerider Trail 2.0,Trail,80,3.9,141
+Reebok,Reebok Run Supreme 3.0 MT,Road,80,3.9,80
+Inov-8,Inov-8 Trail Talon 290,Trail,150,4.6,7
 New Balance,New Balance Fresh Foam Lazr Sport,Road,110,3.9,176
-361 Degrees,361 Degrees Overstep 2,Road,,4.6,10
+361 Degrees,361 Degrees Overstep 2,Trail,90,4.6,10
 Asics,Asics HyperGel SAI,Road,150,4.6,10
-Altra,Altra Lone Peak 4.0 RSM,Road,,4.1,37
-New Balance,New Balance Vazee 2090,Road,,4.2,6
-New Balance,New Balance Vazee 2090,Road,,4.2,6
-New Balance,New Balance Fresh Foam Cruz v2 Sport,Road,,3.9,98
-Merrell,Merrell Agility Peak Flex 2 E-Mesh,Road,160,4.1,30
-Saucony,Saucony Cohesion 12,Road,,4.3,8
+Altra,Altra Lone Peak 4.0 RSM,Trail,180,4.1,37
+New Balance,New Balance Vazee 2090,Road,180,4.2,6
+New Balance,New Balance Vazee 2090,Road,180,4.2,6
+New Balance,New Balance Fresh Foam Cruz v2 Sport,Road,100,3.9,98
+Merrell,Merrell Agility Peak Flex 2 E-Mesh,Trail,160,4.1,30
+Saucony,Saucony Cohesion 12,Road,80,4.3,8
 Hoka One One,Hoka One One Arahi 3,Road,160,3.9,81
 Skechers,Skechers GOrun Fast,Road,70,4.6,7
-Inov-8,Inov-8 Mudclaw 275,Road,160,4.6,7
-Inov-8,Inov-8 Roclite 325,Road,170,4,20
+Inov-8,Inov-8 Mudclaw 275,Trail,160,4.6,7
+Inov-8,Inov-8 Roclite 325,Trail,170,4,20
 Under Armour,Under Armour Threadborne Fortis 3,Road,140,4.2,5
-Reebok,Reebok Plus Runner ULTK,Road,,4.3,13
-Reebok,Reebok Jet Dashride 6.0,Road,,4.1,26
+Reebok,Reebok Plus Runner ULTK,Road,110,4.3,13
+Reebok,Reebok Jet Dashride 6.0,Road,100,4.1,26
 Newton,Newton Kismet 4,Road,170,4.6,9
-Inov-8,Inov-8 Roclite 305 GTX,Road,170,4.1,27
-New Balance,New Balance Cypher Run Knit,Road,,4.1,29
-Inov-8,Inov-8 Trailroc 270,Road,170,3.8,12
+Inov-8,Inov-8 Roclite 305 GTX,Trail,170,4.1,27
+New Balance,New Balance Cypher Run Knit,Road,110,4.1,29
+Inov-8,Inov-8 Trailroc 270,Trail,170,3.8,12
 Asics,Asics Gel Pursue 4,Road,150,4,26
 Under Armour,Under Armour SpeedForm Gemini Vent,Road,150,3.8,61
-Newton,Newton Fate 4,Road,,4.3,16
-Newton,Newton Kismet 3,Road,,4.5,8
-Inov-8,Inov-8 Parkclaw 275 GTX,Road,180,3.7,22
+Newton,Newton Fate 4,Road,170,4.3,16
+Newton,Newton Kismet 3,Road,170,4.5,8
+Inov-8,Inov-8 Parkclaw 275 GTX,Trail,180,3.7,22
 Adidas,Adidas Climachill Sonic Boost,Road,120,4,45
 Asics,Asics Gel Nimbus 21,Road,180,3.5,26
-Merrell,Merrell Agility Charge Flex,Road,140,4.2,22
+Merrell,Merrell Agility Charge Flex,Trail,140,4.2,22
 New Balance,New Balance Rubix,Road,200,3.8,8
-Inov-8,Inov-8 Trailroc 285,Road,180,3.7,12
-Scott,Scott Palani SPT,Road,,4.1,7
-Asics,Asics Gel Storm 2,Road,,3.6,771
-Asics,Asics LyteRacer TS 7,Road,,4.4,7
-Saucony,Saucony Peregrine 7 ICE+,Road,,3.7,28
-Salming,Salming Trail 5,Road,160,4,6
+Inov-8,Inov-8 Trailroc 285,Trail,180,3.7,12
+Scott,Scott Palani SPT,Road,180,4.1,7
+Asics,Asics Gel Storm 2,Road,110,3.6,771
+Asics,Asics LyteRacer TS 7,Road,120,4.4,7
+Saucony,Saucony Peregrine 7 ICE+,Trail,180,3.7,28
+Salming,Salming Trail 5,Trail,160,4,6
 Under Armour,Under Armour Charged CoolSwitch,Road,120,3.7,70
-Saucony,Saucony Endorphin Racer 2,Road,,3.7,13
-Hoka One One,Hoka One One Hupana Knit Jacquard,Road,,4.1,18
-Reebok,Reebok Pump Plus Night,Road,,4.3,6
-On,On Cloudventure Midtop,Road,,3.4,31
-Nike,Nike Air VaporMax Flyknit Moc,Road,,3.9,32
+Saucony,Saucony Endorphin Racer 2,Road,150,3.7,13
+Hoka One One,Hoka One One Hupana Knit Jacquard,Road,140,4.1,18
+Reebok,Reebok Pump Plus Night,Road,100,4.3,6
+On,On Cloudventure Midtop,Trail,190,3.4,31
+Nike,Nike Air VaporMax Flyknit Moc,Road,240,3.9,32
 Saucony,Saucony Echelon 7,Road,160,4.1,13
-Merrell,Merrell Trail Glove 4 Knit Wool,Road,,4.3,10
-New Balance,New Balance 910 v4,Road,140,4.1,17
-New Balance,New Balance 775 v2,Road,,3.7,363
+Merrell,Merrell Trail Glove 4 Knit Wool,Trail,180,4.3,10
+New Balance,New Balance 910 v4,Trail,140,4.1,17
+New Balance,New Balance 775 v2,Road,90,3.7,363
 Altra,Altra Vanish-R,Road,120,3.1,234
-Scott,Scott Kinabalu Enduro,Road,,3.8,6
-Inov-8,Inov-8 Arctic Talon 275,Road,160,4.3,7
-New Balance,New Balance 1340 v3,Road,,3.6,72
-Reebok,Reebok Floatride Run Nite,Road,,4.3,8
+Scott,Scott Kinabalu Enduro,Trail,180,3.8,6
+Inov-8,Inov-8 Arctic Talon 275,Trail,160,4.3,7
+New Balance,New Balance 1340 v3,Road,170,3.6,72
+Reebok,Reebok Floatride Run Nite,Road,180,4.3,8
 Asics,Asics Gel Hyper Tri 3,Road,120,3.6,99
-Reebok,Reebok Instalite Run,Road,,3.6,63
+Reebok,Reebok Instalite Run,Road,80,3.6,63
 New Balance,New Balance Fresh Foam Cruz Decon,Road,100,4,17
-Salomon,Salomon Sense Ride GTX Invisible Fit,Road,190,4,12
+Salomon,Salomon Sense Ride GTX Invisible Fit,Trail,190,4,12
 New Balance,New Balance Vazee Breathe v2,Road,120,4,7
-La Sportiva,La Sportiva Akyra GTX,Road,190,4,10
+La Sportiva,La Sportiva Akyra GTX,Trail,190,4,10
 Saucony,Saucony Guide ISO 2,Road,150,3.6,5
-Nike,Nike Free RN Motion Flyknit 2018,Road,,3.8,45
+Nike,Nike Free RN Motion Flyknit 2018,Road,180,3.8,45
 Asics,Asics Gel Nimbus 19 Lite-Show,Road,210,3.6,534
-Asics,Asics Gel Kenun Knit,Road,,4,21
-Asics,Asics FuzeX Knit,Road,,3.7,35
+Asics,Asics Gel Kenun Knit,Road,160,4,21
+Asics,Asics FuzeX Knit,Road,150,3.7,35
 Asics,Asics Gel Pursue 5,Road,150,,
 Saucony,Saucony Redeemer ISO 2,Road,180,3.4,73
 Saucony,Saucony Echelon 6,Road,160,3.5,33
-Under Armour,Under Armour Threadborne Reveal,Road,,3.8,6
-Under Armour,Under Armour Threadborne Reveal,Road,,3.8,6
-Nike,Nike Air Zoom Pegasus 35 FlyEase,Road,,3.6,17
+Under Armour,Under Armour Threadborne Reveal,Road,150,3.8,6
+Under Armour,Under Armour Threadborne Reveal,Road,150,3.8,6
+Nike,Nike Air Zoom Pegasus 35 FlyEase,Road,150,3.6,17
 Nike,Nike Air Zoom Structure 22,Road,150,3,10
 Nike,Nike LunarSpider R6,Road,150,2.9,8
 Nike,Nike Zoom Strike 2 ,Road,100,3,6
-Reebok,Reebok Endless Road,Road,,4.7,9
+Reebok,Reebok Endless Road,Road,90,4.7,9
 Adidas,Adidas Ultra Boost 19,Road,220,,
-Jordan,Jordan 89 Racer,Road,,,
-New Balance,New Balance Cypher Run v2,Road,,,
+Jordan,Jordan 89 Racer,Road,120,,
+New Balance,New Balance Cypher Run v2,Road,110,,
 Asics,Asics Gel Cumulus 20 MX,Road,150,,
-Under Armour,Under Armour Micro G Pursuit Twist,Road,,4.6,9
-Inov-8,Inov-8 Roclite 315 GTX,Road,180,,
+Under Armour,Under Armour Micro G Pursuit Twist,Road,90,4.6,9
+Inov-8,Inov-8 Roclite 315 GTX,Trail,180,,
 Altra,Altra Torin 3.5 Mesh,Road,150,,
-Altra,Altra Timp IQ,Road,,,
-Inov-8,Inov-8 X-Talon 210,Road,160,,
-Adidas,Adidas AlphaBounce Parley,Road,,,
-361 Degrees,361 Degrees Ortega 2,Road,,,
-361 Degrees,361 Degrees Spinject,Road,,,
+Altra,Altra Timp IQ,Trail,240,,
+Inov-8,Inov-8 X-Talon 210,Trail,160,,
+Adidas,Adidas AlphaBounce Parley,Road,140,,
+361 Degrees,361 Degrees Ortega 2,Trail,150,,
+361 Degrees,361 Degrees Spinject,Road,140,,
 Puma,Puma Speed 500 Ignite 2,Road,150,,
 Puma,Puma Ignite EvoKNIT 2,Road,160,,
-361 Degrees,361 Degrees Santiago,Road,,,
+361 Degrees,361 Degrees Santiago,Trail,150,,
 New Balance,New Balance Fresh Foam Cruz Sport,Road,90,,
-Dynafit,Dynafit Ultra Pro,Road,,,
-New Balance,New Balance Fresh Foam Lazr Denim,Road,,,
-Nike,Nike Free RN 2018 DNA,Road,,,
-New Balance,New Balance Fresh Foam Lazr Nations,Road,,,
+Dynafit,Dynafit Ultra Pro,Trail,170,,
+New Balance,New Balance Fresh Foam Lazr Denim,Road,110,,
+Nike,Nike Free RN 2018 DNA,Road,140,,
+New Balance,New Balance Fresh Foam Lazr Nations,Road,110,,
 361 Degrees,361 Degrees Sensation 3,Road,160,,
 Nike,Nike Free RN Commuter 2018,Road,140,,
-361 Degrees,361 Degrees Feisu,Road,,,
-Saucony,Saucony Xodus ISO 3,Road,180,,
-La Sportiva,La Sportiva Lycan GTX,Road,170,,
-Under Armour,Under Armour Horizon BPF,Road,,,
+361 Degrees,361 Degrees Feisu,Road,150,,
+Saucony,Saucony Xodus ISO 3,Trail,180,,
+La Sportiva,La Sportiva Lycan GTX,Trail,170,,
+Under Armour,Under Armour Horizon BPF,Trail,160,,
 Reebok,Reebok Fusion Flexweave Cage,Road,150,,
-On,On Cloudflyer Waterproof,Road,,,
-New Balance,New Balance Fresh Foam Arishi v2,Road,,,
+On,On Cloudflyer Waterproof,Road,220,,
+New Balance,New Balance Fresh Foam Arishi v2,Road,90,,
 Saucony,Saucony Kinvara 10,Road,140,,
 Asics,Asics GT 2000 7,Road,150,,
 Asics,Asics Roadhawk FF 2 MX,Road,120,,
-Adidas,Adidas Aerobounce ST 2 ,Road,,,
-361 Degrees,361 Degrees Spire 3,Road,,,
+Adidas,Adidas Aerobounce ST 2 ,Road,140,,
+361 Degrees,361 Degrees Spire 3,Road,180,,
 Puma,Puma NRGY Comet,Road,80,,
 Asics,Asics Gel Cumulus 20 SP,Road,150,,
-Salomon,Salomon S-Lab Sense 7 SG,Road,220,,
-Altra,Altra Lone Peak 4.0 Mid Mesh,Road,,,
-Asics,Asics HyperGel KAN,Road,,,
-Asics,Asics Gel Sonoma 4,Road,100,,
+Salomon,Salomon S-Lab Sense 7 SG,Trail,220,,
+Altra,Altra Lone Peak 4.0 Mid Mesh,Trail,160,,
+Asics,Asics HyperGel KAN,Road,180,,
+Asics,Asics Gel Sonoma 4,Trail,100,,
 New Balance,New Balance 1500 v5,Road,140,,
-New Balance,New Balance Fresh Foam Hierro v4,Road,170,,
-Asics,Asics GT 2000 7 Trail,Road,,,
+New Balance,New Balance Fresh Foam Hierro v4,Trail,170,,
+Asics,Asics GT 2000 7 Trail,Trail,150,,
 Mizuno,Mizuno Wave Inspire 15,Road,160,,
 Saucony,Saucony Hurricane ISO 5,Road,200,,
 New Balance,New Balance Fresh Foam Zante Pursuit,Road,140,,
-Asics,Asics Gel FujiTrabuco 7,Road,160,,
+Asics,Asics Gel FujiTrabuco 7,Trail,160,,
 Brooks,Brooks Transcend 6,Road,190,,
-Hoka One One,Hoka One One Speedgoat 3,Road,170,,
+Hoka One One,Hoka One One Speedgoat 3,Trail,170,,
 Nike,Nike Air Zoom Streak 7,Road,140,,
-Hoka One One,Hoka One One Stinson ATR 5,Road,,,
+Hoka One One,Hoka One One Stinson ATR 5,Trail,190,,
 Asics,Asics Gel Torrance MX,Road,90,,
 Nike,Nike Zoom Strike 2 Shield,Road,110,,
