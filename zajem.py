@@ -112,9 +112,11 @@ ime_modela = re.compile(r'<h1 class="p-name main-shoe-title"><span>(?P<model>.*?
 ocena_in_st = re.compile(r'<h3 id="user_reviews" class="text-left my_rating_title">User ratings</h3>\n.*?<p>(?P<ocena>.*?) / 5 based on (?P<stevilo_ocen>.*?) ratings</p>.*?',
     flags=re.DOTALL
     )
-
+  
 
 znamka_preko_linka = re.compile(r'<img src="(?P<karkoli>.*?)" alt="(?P<znamka>.*?) brand logo">')
+
+
 
 # podatki57 = {}
 # vsebina2 = vsebina_datoteke('modeli/model-957.html')
