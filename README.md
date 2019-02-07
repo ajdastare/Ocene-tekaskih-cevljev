@@ -10,6 +10,7 @@ Za vsak model tekaškega čevlja bom zajela:
 * ceno
 * oceno
 * število glasov
+* tip podlage
 
 Delovne hipoteze:
 * Ali obstaja povezava med najbolje ocenjenimi modeli tekaških čevljev in višjo ceno?
@@ -17,8 +18,11 @@ Delovne hipoteze:
 * Katere znamke čevljev so najbolj ocenjene in kateri modeli? 
 ****
 
-1. Faza : Zajem podatkov
+1. Faza : Zajem in čiščenje podatkov
 
-Zajela sem 10 strani na zgoraj omenjeni strani, koda je v zajem.py. 
-Zajeti podatki so v csv obliki vsi-cevlji.csv. 
-Podatke sem razdelila v stolpce po imenu modela tekaškega čevlja, oceni in številu vseh ocen. Cene in imena proizvajalca nisem zajela, saj teh dveh podatkov v html zapisu pod vsakim modelom na strani ni. 
+Zajela sem 10 strani na zgoraj omenjeni strani, koda je v zajem.py.
+Ko sem zajela te strani, sem skupaj zajela vsak link na tej strani ki vodi do posameznega modela. Podatke iz teh strani sem shranila v datoteko 'modeli'. Za vsak model sem torej zajela podatke in jih shranila v svojo html datoteko 'model-{}.html'.
+Zajeti in očiščeni podatki so v datoteki 'obdelani podatki' v obliki csv in json. 
+
+2. Faza : Analiza podatkov
+Analizo podatkov sem napisala v jupyer notebook 'Analiza-koncano.ipynb', kjer so zapisani tudi končni sklepi. 
